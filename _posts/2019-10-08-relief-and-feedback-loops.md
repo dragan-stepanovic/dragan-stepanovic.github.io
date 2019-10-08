@@ -1,4 +1,7 @@
-Your sense of relief is perhaps indicating too long feedback loop
+---
+layout: post
+title:  "Your sense of relief is perhaps indicating too long feedback loop"
+---
 
 In systems with very short feedback loops there are almost no events. Everything seems to be boring.
 The longer the feedback loop, the more pressure builds up with time elapsed, the greater the sense of relief and achievement this produces on emotional level when the feedback loop is closed (marking an event that has just happened in the system).
@@ -18,6 +21,6 @@ Hint: Look out for "finally, we managed to..." sentences.
 
 With #NoEvents:
 You're commiting your code every minute. You're getting feedback from your peers in real time through constant synchronous cross-collaboration.
-You're integrating to trunk every minute. You're deploying and able to release with every commit. Etc.
+You're integrating to trunk every minute. You're deploying and able to release with every commit. Etcetera.
 
 What are some of the events/milestones you've noticed?
