@@ -1,0 +1,2 @@
+I"�<p>In case you’re doing Trunk Based Development (and you should be doing it) you already know or have heard that Feature Flags are a form of technical debt. In fact, some teams have so many difficulties with this introduced technical debt that they “lose trust” in Trunk Based Development and fallback to Feature Branching. The important thing here to realize is that this is actually a decisive point in the development.</p>
+:ET
