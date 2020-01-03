@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 10
-baseurl: /
+baseurl: http://www.draganstepanovic.com
 domain_name: 'http://www.draganstepanovic.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
