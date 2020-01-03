@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+name: Dragan Stepanović
+description: Should we be having this problem in the first place?
+meta_description: "Dragan Stepanović"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 10
+baseurl: /
+domain_name: 'http://www.draganstepanovic.com'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://www.draganstepanovic.com'
+author:         'Dragan Stepanović'
