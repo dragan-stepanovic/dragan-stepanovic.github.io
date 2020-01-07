@@ -24,3 +24,5 @@ You're commiting your code every minute. You're getting feedback from your peers
 You're integrating to trunk every minute. You're deploying and able to release with every commit. Etcetera.
 
 What are some of the events/milestones you've noticed?
+
+[Original LinkedIn post](https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6587321022423281665)
