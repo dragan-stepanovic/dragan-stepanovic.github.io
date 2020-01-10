@@ -11,6 +11,6 @@ This is the reason why codebases using Pull Requests keep deteriorating and cann
 Unintegrated knowledge and bad quality are types of inventory in codebases.
 Reducing this inventory is crucial for both speed and quality.
 
-__Build quality in by reducing inventory.__
+__Build quality in by reducing the inventory.__
 
 [Original LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6621508222773706752/) and [Twitter](https://twitter.com/d_stepanovic/status/1205445511597187073) post
