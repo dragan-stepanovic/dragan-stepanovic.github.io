@@ -2,9 +2,9 @@
 layout: post
 title:  "Build quality in by reducing inventory"
 ---
-![build quality in](/assets/images/build-quality-in.png)
+Reducing inventory accelerates the feedback, so THE way to build quality in is to reduce the inventory and thus shorten the feedback loop.  
 
-Reducing inventory accelerates the feedback, so THE way to build quality in is to reduce the inventory and thus shorten the feedback loop.
+![build quality in](/assets/images/build-quality-in.png)
 
 The larger the inventory, the more incentive to __not__ intervene which in turn leads to build up of bad quality.
 
