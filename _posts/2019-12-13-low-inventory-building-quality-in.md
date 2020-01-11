@@ -2,14 +2,14 @@
 layout: post
 title:  "Build quality in by reducing inventory"
 ---
+![build quality in](/assets/images/build-quality-in.png)
 
 Reducing inventory accelerates the feedback, so THE way to build quality in is to reduce the inventory and thus shorten the feedback loop.
 
-The larger the inventory, the more incentive to __not__ intervene and thus bad quality builds up.
+The larger the inventory, the more incentive to __not__ intervene which in turn leads to build up of bad quality.
 
 This is the reason why codebases using Pull Requests keep deteriorating and cannot build quality in as compared to when people pair.  
-Unintegrated knowledge and bad quality are types of inventory in codebases.
-Reducing this inventory is crucial for both speed and quality.
+Unintegrated knowledge and bad quality are types of inventory in codebases and reducing this inventory is crucial for both speed and quality.
 
 __Build quality in by reducing the inventory.__
 
