@@ -8,7 +8,7 @@ title:  "Most of the time is spent in queues waiting, not in processing"
 Average Formula One race is 90 minutes. There are two pit stops of ~2-3 seconds each. __Utilization of the whole pit stop crew of 22 people is 0.07% per race!__  
 
 In case of F1, this minimal utilization rate doesn't bother you, but I'm pretty sure that it would bother you if some parts of your teams were utilized as low as this pit stop crew is.  
-Now imagine how much achieved race time increases in case some of the pit stop members are not available when needed because they're working on something else? How much money would Ferrari loose in that case?
+Now imagine how much final race time increases in case some of the pit stop members are not available when needed because they're working on something else? How much money would Ferrari loose in that case?
 It's important for pit stop members to be there when it's needed, not to be utilized as much as possible.
 
 It takes 2 seconds for the pit stop crew to change the tires. But, in case some members are not available, time waiting for those members **_dominates_** the time it takes to change the tires. This is what happens in huge majority of organizations.
