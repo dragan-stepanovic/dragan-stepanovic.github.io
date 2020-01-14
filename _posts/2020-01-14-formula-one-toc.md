@@ -23,4 +23,4 @@ To translate this into Theory of Constraints vocabulary, this video beautifully 
 Your goal is not to utilize people as much as possible. Your goal is to, as much as possible, _minimize the lead time to make an impact_. Even if it means using some people or skills only 0.07% of the time.  
 
 
-_Note: credits for coining goal of "minimizing lead time to make an impact" goes to [Daniel Terhorst-North](https://twitter.com/tastapod)._
+_Note: credit for coining goal of "minimizing lead time to make an impact" goes to [Daniel Terhorst-North](https://twitter.com/tastapod)._
