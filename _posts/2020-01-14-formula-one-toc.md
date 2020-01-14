@@ -16,9 +16,9 @@ They're optimizing for the wrong thing.
 
 > Switch from utilization mindset to throughput and flow mindset happens when we recognize that most of the time is spent in queues waiting, not processing.
 
-At that point we realize that **_the_** most important thing to make sure, in order to minimize the lead time and increase the throughput, is that the given skill is there _exactly_ when needed, rather than given skill being utilized as much as possible.
+At that point we realize that **_the_** most important thing to make sure, in order to minimize the lead time and maximize the throughput, is that the given skill is there _exactly_ when needed, rather than maximizing its utilization.
 
-Also, from Theory of Constraints point of view, this video superbly explains why non-constraints (pit stop crew) **_must_** have excess capacity compared to the constraint (F1 car) in order to achieve the fastest lead times and highest throughput.
+To translate this into Theory of Constraints vocabulary, this video superbly explains why non-constraints (pit stop crew) **_must_** have excess capacity compared to the constraint (F1 car) in order to achieve the shortest lead times and highest throughput.
 
 #### Summary
 Your goal is not to utilize people as much as possible. Your goal is to, as much as possible, _minimize the lead time to make an impact_. Even if it means using some people or skills only 0.07% of the time.  
