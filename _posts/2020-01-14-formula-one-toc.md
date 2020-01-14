@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Most of the time is spent in queues waiting not in processing time"
+title:  "Most of the time is spent in queues waiting not in processing"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHSUp7msCIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -13,7 +13,7 @@ It's important for pit stop members to be there when it's needed, not to be util
 
 It takes 2 seconds for the pit stop crew to change the tires. But, in case some members are not available, time waiting for those members **_dominates_** the time it takes to change the tires. This is what happens in huge majority of organizations.
 
->Switch from utilization mindset to throughput and flow mindset happens when we recognize that most of the time is spent in queues waiting, not in processing time.
+>Switch from utilization mindset to throughput and flow mindset happens when we recognize that most of the time is spent in queues waiting not in processing.
 
 At that point we realize that **_the_** most important thing to have, in order to minimize the lead time and increase the throughput, is that the given skill is there _exactly_ when it's needed, rather than the skill being utilized as much as possible.
 
