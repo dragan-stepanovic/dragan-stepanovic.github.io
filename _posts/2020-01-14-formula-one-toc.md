@@ -17,9 +17,9 @@ It takes 2 seconds for the pit stop crew to change the tires. But, in case some 
 
 At that point we realize that **_the_** most important thing to have, in order to minimize the lead time and increase the throughput, is that the given skill is there _exactly_ when it's needed, rather than the skill being utilized as much as possible.
 
-Also, from Theory of Constraints point of view, this video superbly explains why non-constraints (pit stop crew) **_must_** have excess capacity compared to the constraint (F1 car) in order to achieve the fastest lead times.
+Also, from Theory of Constraints point of view, this video superbly explains why non-constraints (pit stop crew) **_must_** have excess capacity compared to the constraint (F1 car) in order to achieve the fastest lead times and highest throughput.
 
-Your goal is not to utilize people as much as possible. Your goal is to, as much as possible, minimize the lead time to make an impact. Even if that means using some people or skills only 0.07% of the time.
+Your goal is not to utilize people as much as possible. Your goal is to, as much as possible, _minimize the lead time to make an impact_. Even if that means using some people or skills only 0.07% of the time.  
 (credits for coining goal of "minimizing lead time to make an impact" goes to [Daniel Terhorst-North](https://twitter.com/tastapod)).
 
-This is an example of "moving people to the work" instead of "moving work to the people".
+Move people to the work, not work to the people.
