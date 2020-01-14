@@ -11,8 +11,7 @@ In case of F1, this utilization rate doesn't bother you, but if you're a manager
 
 Now, imagine how much final race time increases in case some of the pit stop members are not available when needed because they're working on something else? It's important for pit stop members to be there when it's needed, not to be utilized as much as possible.
 
-It takes 2 seconds for the pit stop crew to change the tires, but in case some members are not available, time spent waiting for those members **_dominates_** the time it takes to change the tires. Huge majority of organizations are optimizing for the processing time.
-They're optimizing for the wrong thing.
+It takes 2 seconds for the pit stop crew to change the tires, but in case some members are not available, time spent waiting for those members **_dominates_** the time it takes to change the tires. Huge majority of organizations are optimizing for the processing time. They're optimizing for the wrong thing.
 
 > Switch from utilization mindset to throughput and flow mindset happens when we recognize that most of the time is spent in queues waiting, not processing.
 
@@ -23,6 +22,5 @@ To translate this into Theory of Constraints vocabulary, this video superbly exp
 #### Summary
 Your goal is not to utilize people as much as possible. Your goal is to, as much as possible, _minimize the lead time to make an impact_. Even if it means using some people or skills only 0.07% of the time.  
 
-__Move people to the work, not work to the people.__
 
 _Note: credits for coining goal of "minimizing lead time to make an impact" goes to [Daniel Terhorst-North](https://twitter.com/tastapod)._
