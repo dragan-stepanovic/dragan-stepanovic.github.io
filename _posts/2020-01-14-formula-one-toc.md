@@ -11,7 +11,7 @@ In case of F1, this utilization rate doesn't bother you, but if you're a manager
 
 Now, imagine how much final race time increases if some of the pit stop members are not available when needed because they're working on something else? It's important for pit stop members to be there **when** it's needed, not to be utilized as much as possible.
 
-It takes 2 seconds for the pit stop crew to change the tires. But if some members are not available, time spent waiting for those members **_dominates_** the time it takes to change the tires. Huge majority of organizations are optimizing for time it takes to change the tires, while most of the time they're wasting on waiting for a needed pit stop crew member that is busy with something else. They're optimizing for the wrong thing.
+It takes 2 seconds for the pit stop crew to change the tires. But if some members are not available, time spent waiting for those members **_dominates_** the time it takes to change the tires. Huge majority of organizations are optimizing for time it takes to change the tires, while most of the time they're wasting on waiting for a necessary pit stop crew member that is busy with something else. They're optimizing for the wrong thing.
 
 > Switch from utilization mindset to throughput and flow mindset happens when we recognize that most of the time is spent in queues waiting, not processing.
 
