@@ -5,7 +5,7 @@ meta_description: "Dragan Stepanović"
 markdown: kramdown
 highlighter: pygments
 logo: false
-paginate: 10
+paginate: 15
 baseurl: http://draganstepanovic.com/
 domain_name: 'https://dragan-stepanovic.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
