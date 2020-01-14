@@ -3,7 +3,6 @@ layout: post
 title:  "Having problems with system reliability?"
 ---
 
-Having problems with system reliability?
 Try with more aggressive timeouts, use circuit breakers and bulkheads.
 
 Nah, I'm kidding.
