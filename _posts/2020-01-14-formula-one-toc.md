@@ -7,7 +7,7 @@ title:  "Most of the time is spent in queues waiting, not processing"
 
 Average Formula One race lasts 90 minutes. Usually, there are two pit stops; ~2 seconds each. __Utilization of the whole pit stop crew of 22 people is 0.07% per race!__  
 
-In case of F1, this utilization rate doesn't bother you, but if you're a manager I'm pretty sure you would have a panick attack if some parts of your teams were utilized as low as this pit stop crew is.
+In case of F1, this utilization rate doesn't bother you, but if you're a manager I'm pretty sure you would have a panic attack if some parts of your teams were utilized as low as this pit stop crew is.
 
 Now, imagine how much final race time increases in case some of the pit stop members are not available when needed because they're working on something else? It's important for pit stop members to be there when it's needed, not to be utilized as much as possible.
 
