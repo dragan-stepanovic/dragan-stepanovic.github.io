@@ -5,7 +5,7 @@ title:  "Most of the time is spent in queues waiting, not in processing"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHSUp7msCIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Average Formula One race is 90 minutes. There are two pit stops of ~2 seconds. __Utilization of the whole pit stop crew of 22 people is 0.07%!__  
+Average Formula One race is 90 minutes. There are two pit stops of ~2-3 seconds each. __Utilization of the whole pit stop crew of 22 people is 0.07% per race!__  
 
 In case of F1, this minimal utilization rate doesn't bother you, but I'm pretty sure that it would bother you if some parts of your teams were utilized as low as this pit stop crew is.  
 Now imagine how much achieved race time increases in case some of the pit stop members are not available when needed because they're working on something else? How much money would Ferrari loose in that case?
