@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Most of the time is spent in queues waiting, not processing"
+title:  "Most of the time is spent waiting in queues, not processing"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHSUp7msCIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -13,7 +13,7 @@ Now, imagine how much final race time increases if some of the pit stop members 
 
 It takes 2 seconds for the pit stop crew to change the tires. But if some members are not available, time spent waiting for those members **_dominates_** the time it takes to change the tires. Huge majority of organizations are optimizing for the time it takes to change the tires, while most of the time, they're wasting on, is waiting for necessary pit stop crew members that are busy with something else. That's optimizing for the wrong thing.
 
-> **Switch from utilization and efficiency mindset to throughput and flow efficiency mindset happens when we recognize that most of the time is actually spent in queues waiting, not processing.**
+> **Switch from utilization and efficiency mindset to throughput and flow efficiency mindset happens when we recognize that most of the time is actually spent waiting in queues, not processing.**
 
 At that point we realize that **_the_** most important thing to make sure, in order to minimize the lead time and maximize the throughput, is that the given skill is there **_exactly_** when needed, rather than maximizing its utilization rate.
 
