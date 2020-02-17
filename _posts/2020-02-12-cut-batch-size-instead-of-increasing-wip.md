@@ -9,3 +9,5 @@ When faced with pressure, teams should cut the batch size instead of pulling in 
 You get both increased throughput and accelerated feedback vs decreased throughput and decelerated feedback.
 
 Win-win vs lose-lose.
+
+[Original tweet] (https://twitter.com/d_stepanovic/status/1227699367416672256)
