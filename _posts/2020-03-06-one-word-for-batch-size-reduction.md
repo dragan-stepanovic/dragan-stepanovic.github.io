@@ -4,7 +4,7 @@ title:  "One word to cut the batch size"
 ---
 
 There's a difference between:  
-_"We're not saying we're not going to do this thing"_  
+_"We're not going to do this thing"_  
 and  
 _"We're just saying we're not going to do this thing __now__"._
 
