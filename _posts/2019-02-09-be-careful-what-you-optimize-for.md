@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Be careful what you _optimize_ for, cause you just might get it"
+title:  "Be careful what you optimize for, cause you just might get it"
 ---
 
 _“Tell me how you measure me, and I will tell you how I will behave”_
