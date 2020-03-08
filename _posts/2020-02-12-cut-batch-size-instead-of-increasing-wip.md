@@ -10,4 +10,4 @@ You get both increased throughput and accelerated feedback vs decreased throughp
 
 Win-win vs lose-lose.
 
-[Original tweet] (https://twitter.com/d_stepanovic/status/1227699367416672256)
+[Original tweet](https://twitter.com/d_stepanovic/status/1227699367416672256)
