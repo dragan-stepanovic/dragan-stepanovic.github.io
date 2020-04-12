@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Queue time has way more leverage than processing time"
+---
+
 Lead time = processing time + queue (feedback) time
 
 Cutting batch size drives processing time down, while queue time becomes a bigger contributor to lead time.
