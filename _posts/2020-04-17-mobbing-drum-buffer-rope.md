@@ -1,4 +1,7 @@
-
+---
+layout: post
+title:  "Mob Programming is a Drum Buffer Rope implementation"
+---
 
 Interested in how to implement Drum Buffer Rope from Theory of Constraints to product development teams?
 Try out mob programming. It makes sure that the whole team will be running at the pace of its currently slowest skill (constraint), which is essential for avoiding local optimizations and achieving maximal throughput.
