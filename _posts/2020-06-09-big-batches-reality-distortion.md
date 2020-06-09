@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big batches tend to distort perception of reality"
+title:  "Big batches makes it harder to be honest about the outcomes"
 ---
 
 Remember the last time you faced a big failure. How difficult was it to acknowledge it and how long did that process take?
@@ -16,9 +16,9 @@ So, how does this compare to a small failure? Well, if facing a big failure is q
 And here's a plot twist. You thought that this post is a life lesson, while actually it's a life lesson AND a story about small batches 😊
 
 We, as humans, work in systems (organizations) which are susceptible to the same effect.
-Big batches inherently carry big risks, which often lead to big failures, which are often not recognized as such, since the emotional burden that they present us with can lead to distortion of the real results. There's another thing here at play. People in charge of a big failure will be even more incentivized to distort the results since it's not just emotional burden that they have to face, but also it's their job that's at stake.
+Big batches inherently carry big risks, which often lead to big failures, which are often not recognized as such, since the emotional burden that they present us with can lead to distortion of the real results and not being sincere with learnings. There's also another thing here at play. People in charge of a big failure will be even more incentivized to distort the results since it's not just emotional burden that they have to face, but also it's their job that's at stake.
 
-If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally limited, which in turn helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of it.
+If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered, which in turn helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.
 Oh, and keep in mind that big failures also errode trust proportionally.
 
 
