@@ -6,8 +6,8 @@ title:  "Big batches tend to distort perception of reality"
 Remember the last time you faced a big failure. How difficult was it to acknowledge it and how long did that process take?
 As you know, sometimes we can go whole life without being willing or ready to face it. 
 
-Most of the times we're also looking for arguments that would cushion the failure. And nothing wrong with that; that's just how human nature works.
-The bigger the failure, the bigger the emotional pain that comes with it and the more difficult it is for our brain to bear with it. Typical coping mechanism for brain is desperately looking for ways to make it less of a failure than it actually is. When we're making a failure less of it, we're also distorting the perception of reality, which distorts future reasoning and behavior.
+Most of the times we're also biased towards arguments that would cushion the failure. And nothing wrong with that; that's just how human nature works.
+The bigger the failure, the bigger the emotional pain that comes with it and the more difficult it is for our brain to bear with it. Typical coping mechanism for brain is to desperately look for ways to make it less of a failure than it actually is. And when we're making a failure less of it, we're also distorting the perception of reality, which distorts future reasoning and behavior.
 This doesn't happen all the time, but we're very much _incentivized_ to behave in this way.
 
 So, how does this compare to a small failure? Well, if facing a big failure is quite difficult, facing a small failure is much less difficult.
