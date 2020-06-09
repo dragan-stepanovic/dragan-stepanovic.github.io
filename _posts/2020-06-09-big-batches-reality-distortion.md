@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big batches makes it harder to be honest about the outcomes"
+title:  "Too many successful experiments can be an indication of a big batches"
 ---
 
 Remember the last time you faced a big failure. How difficult was it to acknowledge it and how long did that process take?
