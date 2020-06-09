@@ -23,7 +23,7 @@ Oh, and keep in mind that big failures also errode trust proportionally.
 
 
 Reducing the batch size (= reducing the inventory) helps a lot with limiting the amount of failure, and this limits the amount of distortion of the results that the system is incentivized for. And this in turn brings more clarity to reality.
-
+Perception of reality changes when you employ small versus when you employ big batches. The glasses through which you're looking with are way blured with big batches. You might as well be even looking at the wrong thing completely.
 
 To sum it up: Distortion of the results is most often proportional to the size of the batches. So, if you see a tendency for a system to distort the results, check the size of the batches.
 
