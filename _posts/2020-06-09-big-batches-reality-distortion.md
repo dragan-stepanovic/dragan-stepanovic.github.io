@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Big batches tend to distort reality"
+---
+
 Remember the last time you faced a big failure. How difficult was it to acknowledge it and how long did that process take?
 As you know, sometimes we can go whole life without being willing or ready to face it. 
 
