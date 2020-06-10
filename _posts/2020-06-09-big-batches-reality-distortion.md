@@ -18,7 +18,7 @@ And here's a plot twist. You thought that this post is a life lesson, while actu
 We, as humans, work in systems (organizations) which are susceptible to the same effect.
 Big batches inherently carry big risks, which often lead to big failures, which are often not recognized as such, since the emotional burden that they present us with can lead to distortion of the real results and not being sincere with learnings. There's also another thing here at play. People in charge of a big failure will be even more incentivized to distort the results since it's not just emotional burden that they have to face, but also it's their job that's at stake.
 
-"It is difficult to get a person to understand something when their salary depends upon his not understanding it" - Upton Sinclair
+> "It is difficult to get a person to understand something when their salary depends upon his not understanding it" - Upton Sinclair
 
 If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered, which in turn helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.
 Oh, and keep in mind that big failures also errode trust proportionally.
