@@ -27,7 +27,7 @@ If we intervene in the system in a way that limits the amount of failure, the em
 
 Reducing the batch size (= reducing the inventory) helps a lot with limiting the amount of failure, which limits the amount of distortion of the results that the system is incentivized for. And this in turn brings more clarity to reality and learnings that come with it.
 
-#### Summary
+##### Summary
 Distortion of the results is most often proportional to the size of the batches. So, if you see a tendency for a system to distort the results, check the size of the batches.
 
 You never thought that these two could be related? Neither did I 🙂
