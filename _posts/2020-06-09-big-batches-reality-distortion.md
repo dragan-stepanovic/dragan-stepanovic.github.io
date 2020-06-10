@@ -22,9 +22,9 @@ There's also another thing here at play. People in charge of a big failure will 
 
 > "It is difficult to get a person to understand something when their salary depends upon his not understanding it" - Upton Sinclair
 
-If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered. This, in turn, helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.  
-Oh, and keep in mind that big failures also errode trust proportionally.
+Also keep in mind that big failures errode trust proportionally.
 
+If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered. This, in turn, helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.  
 
 Reducing the batch size (= reducing the inventory) helps a lot with limiting the amount of failure, and this limits the amount of distortion of the results that the system is incentivized for. And this in turn brings more clarity to reality.
 Perception of reality changes when you employ small versus when you employ big batches. The glasses through which you're looking with are way more rose-colored with big batches. You might as well be even looking at the wrong thing completely.
