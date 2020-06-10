@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big batches make failures less than they are"
+title:  "Big batches tend to make failures less than they actually are"
 ---
 
 Remember the last time you faced a big failure. How difficult was it to acknowledge it and how long did that process take?
