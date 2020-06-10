@@ -17,6 +17,7 @@ And here's the plot twist. You thought that this post is a life lesson, while ac
 
 We, as humans, work in systems (organizations) which are susceptible to the same effect.
 Big batches inherently carry big risks, which often lead to big failures. And these failures are often not recognized as such since the emotional burden that they present us with can be too heavy to face. In turn, this can also hide the learnings essential for making the progress.  
+
 There's also another thing here at play. People in charge of a big failure will be even more incentivized to distort the reality since it's not just emotional burden that they have to face, but also it's their job that's at stake.
 
 > "It is difficult to get a person to understand something when their salary depends upon his not understanding it" - Upton Sinclair
