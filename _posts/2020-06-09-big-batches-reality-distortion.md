@@ -20,7 +20,7 @@ Big batches inherently carry big risks, which often lead to big failures, which 
 
 > "It is difficult to get a person to understand something when their salary depends upon his not understanding it" - Upton Sinclair
 
-If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered, which in turn helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.
+If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered. This, in turn, helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.  
 Oh, and keep in mind that big failures also errode trust proportionally.
 
 
