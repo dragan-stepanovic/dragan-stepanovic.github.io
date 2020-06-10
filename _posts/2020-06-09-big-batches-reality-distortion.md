@@ -8,7 +8,7 @@ As you know, sometimes we can go whole life without being willing or ready to fa
 
 Most of the time we're biased towards the arguments that would cushion the failure. And nothing wrong with that; that's just how human nature works.
 The bigger the failure, the bigger the emotional pain that comes with it and the more difficult it is for our brain to bear it.  
-Typical brain's coping mechanism is to desperately look for ways to make it less of a failure than it actually is. And when we're making a failure less than it is, we're also distorting our perception of reality, which distorts future reasoning and behavior.
+Our brain's typical coping mechanism is to desperately look for ways to make it less of a failure than it actually is. And when we're making a failure less than it is, we're also distorting our perception of reality, which distorts future reasoning and behavior.
 This doesn't happen all the time, but we're very much _incentivized_ to behave in this way.
 
 So, how does this compare to a small failure? Well, if facing a big failure is quite difficult, facing a small failure is much less difficult.
