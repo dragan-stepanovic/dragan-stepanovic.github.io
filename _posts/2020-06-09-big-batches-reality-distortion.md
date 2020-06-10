@@ -24,8 +24,7 @@ There's also another thing here at play. People in charge of a big failure will 
 
 If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered. This, in turn, helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.  
 
-Reducing the batch size (= reducing the inventory) helps a lot with limiting the amount of failure, and this limits the amount of distortion of the results that the system is incentivized for. And this in turn brings more clarity to reality.
-Perception of reality changes when you employ small versus when you employ big batches. The glasses through which you're looking with are way more rose-colored with big batches. You might as well be even looking at the wrong thing completely.
+Reducing the batch size (= reducing the inventory) helps a lot with limiting the amount of failure, which limits the amount of distortion of the results that the system is incentivized for. And this in turn brings more clarity to reality and learnings that come with it.
 
 To sum it up: Distortion of the results is most often proportional to the size of the batches. So, if you see a tendency for a system to distort the results, check the size of the batches. When there are too many successful experiments also check the size of the batches, since the system might not be incentivizing for being honest about the results. Too many successful experiments might be an indication of a big batches.
 
