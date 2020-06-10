@@ -3,7 +3,7 @@ description: Should we be having this problem in the first place?
 meta_description: "Dragan Stepanović"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 10
 baseurl: http://draganstepanovic.com/
