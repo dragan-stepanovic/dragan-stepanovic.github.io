@@ -21,7 +21,7 @@ Big batches inherently carry big risks, which often lead to big failures. And th
 
 There's also another thing here at play. People in charge of a big failure will be even more incentivized to distort the reality since it's not just emotional burden that they have to face, but also it is their job and reputation that is at stake.
 
-> "It is difficult to get a person to understand something when their salary depends upon his not understanding it" - Upton Sinclair
+> "It is difficult to get a person to understand something when their salary depends upon them not understanding it" - Upton Sinclair
 
 If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered. This, in turn, helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.  
 
