@@ -22,7 +22,7 @@ There's also another thing here at play. People in charge of a big failure will 
 
 > "It is difficult to get a person to understand something when their salary depends upon his not understanding it" - Upton Sinclair
 
-Also keep in mind that big failures errode trust proportionally.
+Big failures also errode trust proportionally.
 
 If we intervene in the system in a way that limits the amount of failure, the emotional burden to face it is going to be proportionally lowered. This, in turn, helps with limiting the distortion of reality, and future reasoning and behavior based on the perception of that reality.  
 
