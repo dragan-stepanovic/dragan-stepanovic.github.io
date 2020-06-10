@@ -16,7 +16,7 @@ So, how does this compare to a small failure? Well, if facing a big failure is q
 And here's the plot twist. You thought that this post is a life lesson, while actually it's a life lesson AND a story about small batches 😊
 
 We, as humans, work in systems (organizations) which are susceptible to the same effect.
-Big batches inherently carry big risks, which often lead to big failures. And these failures are often not recognized as such since the emotional burden that they present us with can be too heavy to face. In turn, this can also hide the learnings essential for making the progress.  
+Big batches inherently carry big risks, which often lead to big failures. And these failures are often not recognized as such since the emotional burden that they present us with can be too heavy to face. In turn, this can also hide the learnings essential for making the progress.
 
 There's also another thing here at play. People in charge of a big failure will be even more incentivized to distort the reality since it's not just emotional burden that they have to face, but also it is their job that is at stake. Big failures also errode trust proportionally.
 
@@ -26,6 +26,6 @@ If we intervene in the system in a way that limits the amount of failure, the em
 
 Reducing the batch size (= reducing the inventory) helps a lot with limiting the amount of failure, which limits the amount of distortion of the results that the system is incentivized for. And this in turn brings more clarity to reality and learnings that come with it.
 
-To sum it up: Distortion of the results is most often proportional to the size of the batches. So, if you see a tendency for a system to distort the results, check the size of the batches. When there are too many successful experiments also check the size of the batches, since the system might not be incentivizing for being honest about the results. Too many successful experiments might be an indication of a big batches.
+To sum it up: Distortion of the results is most often proportional to the size of the batches. So, if you see a tendency for a system to distort the results, check the size of the batches.
 
 You never thought that these two could be related? Neither did I 🙂
