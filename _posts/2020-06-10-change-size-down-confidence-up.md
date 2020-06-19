@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Change size down, confidence up"
+title:  "When batch size goes down, confidence goes up"
 ---
 
 Interestingly, I noticed that the smaller the steps I take when refactoring, the less of a need I have to run the tests.
