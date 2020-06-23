@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If I have to raise a PR to rename a method that bothers me, I’d rather not do it"
+title: ""If I have to raise a PR to rename a method that bothers me, I’d rather not do it""
 ---
 
 And this is a short story about the process that penalizes people for trying to do their best.  
