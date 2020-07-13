@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Expressive domain as incremental refactoring enabler
-----
+title: "Expressive domain as incremental refactoring enabler"
+---
 
 Being expressive about the domain doesn't only improve readability, but also reduces coupling, which in turn enables incremental refactoring.
 
