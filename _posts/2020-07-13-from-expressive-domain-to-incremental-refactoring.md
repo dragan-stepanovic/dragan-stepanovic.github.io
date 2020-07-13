@@ -11,7 +11,7 @@ So, expressive domain -> reduces coupling -> enables incremental refactoring.
 
 To quote Brian Marick: "An example would be handy right about now".
 
-A snippet from Game of Life kata.
+A snippet from Game of Life kata:
 ![](/assets/images/expressive_domain.jpg)
 
 3 methods have the same body, but that single line of code is used to communicate different outcomes.
