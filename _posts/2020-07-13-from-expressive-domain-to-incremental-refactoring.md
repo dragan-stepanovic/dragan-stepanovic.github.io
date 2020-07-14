@@ -14,10 +14,11 @@ To quote Brian Marick: "An example would be handy right about now".
 A snippet from Game of Life kata:
 ![](/assets/images/expressive_domain_2.jpg)
 
-3 methods have the same body, but that single line of code is used to communicate different outcomes.
+3 methods have the same body, but that single line of code is used to communicate 3 different outcomes and meaning in a given (client) context.
 
 
 
 As a bonus effect of being explicit about that, it enabled independent changeability of the methods.
 
 And believe it or not I did have a need to change them independently while refactoring (from static to non-static).
+
