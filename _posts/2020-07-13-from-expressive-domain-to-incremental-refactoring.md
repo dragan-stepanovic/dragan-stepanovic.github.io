@@ -18,7 +18,7 @@ A snippet from Game of Life kata:
 
 
 
-As a bonus effect of being explicit about that, it enabled independent changeability of the methods.
+As a bonus effect of being explicit about that, it enabled independent changeability of the methods and thus ability to refactor in a small steps.
 
 And believe it or not I did have a need to change them independently while refactoring (from static to non-static).
 
