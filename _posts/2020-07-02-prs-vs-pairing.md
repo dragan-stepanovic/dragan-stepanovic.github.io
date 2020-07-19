@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pull Request workflow just cannot be compared to Pair Programming"
+title: "Pull Request workflow cannot be compared to Pair Programming"
 ---
 
 Here's an interesting experiment.  
