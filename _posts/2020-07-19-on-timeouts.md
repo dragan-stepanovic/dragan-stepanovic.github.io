@@ -7,8 +7,8 @@ title: On Timeouts in Distributed Systems
 Here's a brain dump of thoughts I kept in my head about timeouts in distributed systems.
 
 Longer timeouts are tying request handling threads for longer time which means that request handling thread pool is going to get exhausted faster, which at point of exhaustion causes a cascading failure starts in the upstream services.
-Upstream services have a higher chance of this happening since they are, by definition, waiting longer for the response than downstream services (response time of a given serivce is proportional to the number of downstream dependencies) and thus need to be planned accordingly in terms of capacity.
-The first one that fails in the call chain is propagating failure upstream until the whole system becomes unavailable.
+Upstream services have a higher chance of this happening since they are, by definition, waiting longer for the response than downstream services (response time of a given serivce is proportional to the number of downstream dependencies) and thus needs to be planned accordingly in terms of capacity.
+The first service that fails in the call chain is propagating failure upstream until the whole system becomes unavailable.
 
 It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in becomes. This indicates services that we need to be more careful about since if they become unavailable they are bringing more of a system down than the services that have lower fan-in factor.
 Meaning, the service with high fan factor has to have really aggressive timeouts against the downstream dependencies.
