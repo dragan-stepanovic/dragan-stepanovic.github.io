@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Timeouts in Distributed Systems
+comments: true
 ---
 
 
