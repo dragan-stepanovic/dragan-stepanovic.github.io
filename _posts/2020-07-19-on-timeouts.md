@@ -17,14 +17,14 @@ Meaning, the service with high fan-in factor has to have more aggressive timeout
 Also, timeouts help with system (service) availability, but not necessarily with the business availability.
 If we have A -> B -> C service chain and B timeouts for A, then A is going to be able to accept requests, but not be able to fulfill them. Service is up, but not able to fulfill business capability. So, timeouts don't help us with business availability in this case, but can help us with being able to respond to requests that don't go down the path of B -> C, but A calls a different service in order to fulfill the given request.
 
-Also, if there are, say, 2 downstream endpoints that a given service calls and one of those is for a use case which is, from the business value perspective, more important than the other one, then the recommended heuristic is that the timeout for the less important one should be more aggressive. That's because the duration of the timeout for the downstream dependencies is directly proportional to the rate at which we're going to eat up the request handling thread pool in the service. We don't want less valuable functionality to eat it (faster) and jeopardize the more important functionality (more valuable downstream endpoint) of becoming unavailable.
+Also, if there are, say, 2 downstream endpoints that a given service calls and one of those is for a use case which is, from the business value perspective, more important than the other one, then the recommended heuristic is that the timeout for the less important one should be more aggressive. That's because duration of the timeout for the downstream dependencies is directly proportional to the rate at which we're going to eat up the request handling thread pool in the service. We don't want less valuable functionality to eat it (faster) and jeopardize the more important functionality (more valuable downstream endpoint) of becoming unavailable.
 
 When multiple teams are collaborating in the same service, they might not know how the downstream endpoints compare as for the business value, so it's important to have this conversation across teams collaborating in the given codebase in order to maximize the amount of residual value available to users in case of a problem in the system (which is inevitable).
-The same conversation has to happen even inside a single team if that team is the only one owning a given service.
+The same conversation should also happen inside a single team if that team is the only one owning a given service which calls downstream services.
 
-Also, long timeouts (I'd say longer than a second) can be an indication of a system design problem and should be reevaluated from that perspective before proceeding.
+Also, a need for a long timeouts (I'd say longer than a second) is probably an indication of a suboptimal system design and should be reevaluated from that perspective before proceeding.
 
-Maybe to provide a bit more details here, e.g. that availability of three downstream calls is A * B * C and that availability of each service by definition is <1. I.e. with every downstream service dependency added, availability by definition goes down.
+An important thing to always keep in mind is that availability of a end request  three downstream calls is A * B * C and that availability of each service by definition is <1. I.e. with every downstream service dependency added, availability by definition goes down and timeouts won't help you out in case you're not having this fact on top of your mind whenever you're designing distributed system.
 
-Also, worth pointing out that this should be taken into consideration when designing the system.
-Sometimes it's possible to avoid the need of resiliency patterns by rethinking the design of the system.
+Also, worth pointing out is that often times it's possible to avoid the need for resiliency patterns (timeouts, bulkehads, circuit breakers, etc.) by rethinking the design of the system.
+Meaning, a heavy need for relying on resiliency patterns is very probably an indication of a suboptimal design of a system.
