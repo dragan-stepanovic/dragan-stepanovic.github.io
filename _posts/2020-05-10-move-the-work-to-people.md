@@ -3,7 +3,7 @@ layout: post
 title: "Move the work to the people, not the people to the work"
 ---
 
-![](/assets/images/move_work_to_people.jpeg)  
+![](/assets/images/move_work_to_people.jpeg =200x50)  
 
 In order to minimize the lead time, move the people to the work, not work to the people. Meaning, do not split the work and assign it to the people.
 This also helps people, that do the work, to understand the actual problem that they need to solve and often times find a better solution for it than yourself.  
