@@ -24,9 +24,9 @@ The same conversation should also happen inside a single team if that team is th
 
 Also, a need for a long timeouts (I'd say longer than a second) is probably an indication of a suboptimal system design and should be reevaluated from that perspective before proceeding.
 
-An important thing to always keep in mind is that availability of an end request that includes three downstream calls (activation path of 3) is  
+An important thing to always keep in mind is that availability of an end request (use case) that includes three downstream calls (activation path of 3) is  
 _availability of A * avaialability of B * availability of C_  
-Having in mind that availability of each service by definition is <1, that means that with every additional downstream service dependency availability of the use case goes down and timeouts are not going to help you out in case you're not having this fact on top of your mind whenever you're designing distributed system.
+Having in mind that availability of each service by definition is <1, that means that with every additional downstream service dependency, availability of the use case goes down and timeouts are not going to help you out in case you're not having this fact on top of your mind whenever you're designing distributed system.
 
 Also, worth pointing out is that often times it's possible to avoid the need for resiliency patterns (timeouts, bulkehads, circuit breakers, etc.) by rethinking the design of the system.
 Meaning, a heavy need for relying on resiliency patterns is very probably an indication of a suboptimal design of a system.
