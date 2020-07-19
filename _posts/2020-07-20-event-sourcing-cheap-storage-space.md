@@ -8,7 +8,7 @@ Maybe late to the party, but just realized an interesting interplay between Even
 
 
 
-Immutability of events in Event Sourcing enables infinite cacheability on the clients, and since price per unit of storage is getting cheaper and cheaper, it heavily reduced the need for horizontal scaling on the server side (event store), since all the data can be closer to the clients without ever needing to "go back to the server".
+Immutability of events in Event Sourcing enables infinite cacheability on the clients, and since price per unit of storage is getting cheaper and cheaper, it heavily reduced the need for horizontal scaling on the server side (event store), since all the data can be closer to the clients without ever needing to "go back to the server" for the things that happened in the past.
 
 
 
