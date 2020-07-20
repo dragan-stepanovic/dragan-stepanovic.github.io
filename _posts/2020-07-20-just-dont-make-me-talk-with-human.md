@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Just don't make me talk to human"
+title: >
+      "Just don't make me talk to human"
 ---
 
 Developers would agree to:
