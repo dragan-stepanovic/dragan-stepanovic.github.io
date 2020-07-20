@@ -7,15 +7,15 @@ comments: true
 
 Here's a brain dump of thoughts I kept in my head about timeouts in distributed systems.
 
-Longer timeouts are tying request handling threads for longer time which means that request handling thread pool is going to get exhausted faster, which at point of exhaustion causes a cascading failure starts in the upstream services.
-Upstream services have a higher chance of this happening since they are, by definition, waiting longer for the response than downstream services (response time of a given serivce is proportional to the number of downstream dependencies) and thus needs to be planned accordingly in terms of capacity.
+Longer timeouts (for downstream dependencies) are tying request handling threads in a service for longer time which means that request handling thread pool is going to get exhausted faster, which at point of exhaustion kicks-off a cascading failure in the upstream services.
+Upstream services have a higher chance of this happening since they are, by definition, waiting longer for the response compared to downstream services (response time of a given service is proportional to the number of downstream dependencies) and thus needs to be planned accordingly in terms of capacity.
 The first service that fails in the call chain is propagating failure upstream until the whole system becomes unavailable.
 
-It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in becomes. This indicates services that we need to be more careful about since if they become unavailable they are bringing more of a system down than the services that have lower fan-in factor.
-Meaning, the service with high fan-in factor has to have more aggressive timeouts towards the downstream dependencies.
+It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about since if they become unavailable they are bringing more of a system down than the services that have lower fan-in factor.
+Meaning, the service with high fan-in factor should have more aggressive timeouts towards the downstream dependencies.
 
 Also, timeouts help with system (service) availability, but not necessarily with the business availability.
-If we have A -> B -> C service chain and B timeouts for A, then A is going to be able to accept requests, but not be able to fulfill them. Service is up, but not able to fulfill business capability. So, timeouts don't help us with business availability in this case, but can help us with being able to respond to requests that don't go down the path of B -> C, but A calls a different service in order to fulfill the given request.
+If we have A -> B -> C service chain and B timeouts for A, then A is going to be able to accept requests, but not be able to fulfill them. Service is up, but not able to fulfill business capability. So, timeouts don't help us with business availability in this case, but can help us with being able to respond to requests that don't go down the path of B -> C in order to fulfill the given use case.
 
 Also, if there are, say, 2 downstream endpoints that a given service calls and one of those is for a use case which is, from the business value perspective, more important than the other one, then the recommended heuristic is that the timeout for the less important one should be more aggressive. That's because duration of the timeout for the downstream dependencies is directly proportional to the rate at which we're going to eat up the request handling thread pool in the service. We don't want less valuable functionality to eat it (faster) and jeopardize the more important functionality (more valuable downstream endpoint) of becoming unavailable.
 
