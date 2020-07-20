@@ -25,7 +25,7 @@ The same conversation should also happen inside a single team if that team is th
 Also, a need for long timeouts (I'd say longer than a second) is probably an indication of a suboptimal system design and should be reevaluated from that perspective before proceeding.
 
 An important thing to always keep in mind is that availability of an end user request (use case) that includes three downstream calls (activation path of 3) is:  
-_availability of A * avaialability of B * availability of C_  
+_availability of A x avaialability of B x availability of C_  
 
 Having in mind that availability of each service is by definition <1, that means that with every additional downstream service dependency, availability of the use case goes down and timeouts are not going to help you out in case you're not having this fact on top of your mind whenever you're designing or extending a distributed system.
 
