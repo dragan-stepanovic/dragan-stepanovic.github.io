@@ -4,9 +4,9 @@ title: >
       "Just don't make me talk to a human"
 ---
 
-Developers will agree to:
+Developers will agree to change their Pull Request workflow and:
 - move from long-lived to short-lived branches
-- a process of having at least one person reviewing their every Pull Request
-- keep being interrupted to review bunch of other's Pull Requests
+- have a process of at least one person reviewing their every Pull Request
+- keep being interrupted to review (precisely add "LGTM 👍" to) bunch of other's Pull Requests
 
-"just don't make me pair and talk with a human" :)
+"Just don't make me pair and interact with a human."
