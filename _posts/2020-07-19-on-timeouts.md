@@ -21,7 +21,17 @@ It also depends on the fan-in factor of a given service. Usually, the more downs
 Meaning, the services with high fan-in factor are bottlenecks in terms of the system availability and thus should have more aggressive timeouts towards the downstream dependencies in order to release the threads faster and not bring the rest of the system down with it.
 
 ##### Timeouts and business value
-Also, if there are, say, 2 downstream endpoints that a given service calls and one of those is for a use case which is, from the business value perspective, more important than the other one, then the recommended heuristic is that the timeout for the less important one should be more aggressive. That's because duration of the timeout for the downstream dependencies is directly proportional to the rate/speed at which we're going to eat up the request handling thread pool in the service. We don't want less valuable functionality to eat it (faster) and jeopardize the more important functionality (more valuable downstream endpoint) of becoming unavailable.
+Also, if there are, say, 2 downstream endpoints that a given service calls and one of those is for a use case which is, from the business value perspective, more important than the other one, then the recommended heuristic is that the timeout for the less important one should be more aggressive. That's because duration of the timeout for the downstream dependencies is directly proportional to the rate/speed at which we're going to eat up the request handling thread pool in the service. We don't want less valuable functionality to eat it (faster) and jeopardize the more important functionality (more valuable downstream endpoint) of becoming unavailable.  
+
+Having in mind previous points, you can create a map of business risk distribution across the system by weighing each service in terms of:
+- its business value
+- business value of its upstream services and
+- fan-in factor
+
+_Business risk of a given service = fan-in factor x business value of a service x business value of upstream services_
+
+That can give you valuable insight into where you should put most of the focus and effort in terms of the resillience and availability.
+
 
 When multiple teams are collaborating in the same service, they might not know how the downstream endpoints compare as for the business value, so it's important to have this conversation across teams collaborating in the given codebase in order to maximize the amount of residual value available to users in case of (inevitable) problem in the system.
 The same conversation should also happen inside a single team if that team is the only one owning a given service which calls downstream services.
