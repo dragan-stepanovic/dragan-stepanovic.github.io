@@ -28,7 +28,7 @@ Having in mind previous points, you can create a map of business risk distributi
 - business value of its upstream services and
 - fan-in factor
 
-_Business risk of a given service = fan-in factor __x__ business value of a service __x__ business value of upstream services_
+_Business risk of a given service = (fan-in factor) x (business value of a service) x (business value of upstream services)_
 
 That can give you valuable insight into where you should put most of the focus and effort in terms of the resillience and availability.
 
