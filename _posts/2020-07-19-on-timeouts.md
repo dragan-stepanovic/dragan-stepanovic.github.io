@@ -14,7 +14,7 @@ Upstream services have a higher chance of this happening since they are, by defi
 
 ##### Services with higher fan-in factor bring more of a system down
 It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since when they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
-Meaning, the service with high fan-in factor should have more aggressive timeouts towards the downstream dependencies in order to release the threads faster and not bring the rest of the system down with it.
+Meaning, the services with high fan-in factor are bottlenecks in terms of the system availability and thus should have more aggressive timeouts towards the downstream dependencies in order to release the threads faster and not bring the rest of the system down with it.
 
 #### Timeouts don't help with business availability
 Also, timeouts help with system (service) availability, but not necessarily with the business availability.
