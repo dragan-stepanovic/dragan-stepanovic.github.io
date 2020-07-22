@@ -7,7 +7,7 @@ comments: true
 
 Here's a brain dump of thoughts I kept in my head about timeouts in distributed systems.
 
-Longer timeouts (for downstream dependencies) are tying request handling threads in a service for a longer time which means that request handling thread pool is going to get exhausted faster, which kicks-off a cascading failure in the upstream services.
+Longer timeouts (for downstream dependencies) are tying request handling threads in a service for a longer time which means that request handling thread pool is going to get exhausted faster, which at point of exhaustion kicks-off a cascading failure in the upstream services.
 Upstream services have a higher chance of this happening since they are, by definition, waiting longer for the response compared to downstream services (response time of a given service is proportional to the number of downstream dependencies) and thus needs to be planned accordingly in terms of capacity.
 The first service that fails in the call chain is propagating failure upstream until the whole system becomes unavailable.
 
