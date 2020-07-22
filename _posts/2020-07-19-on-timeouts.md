@@ -12,7 +12,7 @@ Upstream services have a higher chance of this happening since they are, by defi
 The first service that fails in the call chain is propagating failure upstream until the whole system becomes unavailable.
 
 It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since when they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
-Meaning, the service with high fan-in factor should have more aggressive timeouts towards the downstream dependencies.
+Meaning, the service with high fan-in factor should have more aggressive timeouts towards the downstream dependencies in order to release the threads faster and not bring the rest of the system down with it.
 
 Also, timeouts help with system (service) availability, but not necessarily with the business availability.
 If we have A → B → C service chain and B timeouts for A, then A is going to be able to accept requests, but not to fulfill them. Service is up, but not able to fulfill business capability, which is the same as if service was down. So, timeouts don't help us with business availability in this case, but can help us with being able to respond to requests that don't go down the path of B → C in order to fulfill the given use case.
