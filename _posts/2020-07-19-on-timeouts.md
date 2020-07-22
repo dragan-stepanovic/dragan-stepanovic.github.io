@@ -9,7 +9,7 @@ Here's a brain dump of thoughts I kept in my head about timeouts in distributed 
 
 Longer timeouts (for downstream dependencies) are tying request handling threads in a service for a longer time which means that request handling thread pool is going to get exhausted faster, which at point of exhaustion kicks-off a cascading failure in the upstream services until the whole system becomes unavailable.
 
-##Upstream services exhaust thread pool faster
+## Upstream services exhaust thread pool faster
 Upstream services have a higher chance of this happening since they are, by definition, waiting longer for the response compared to downstream services (response time of a given service is proportional to the number of downstream dependencies) and thus needs to be planned accordingly in terms of thread pool capacity.
 
 It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since when they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
