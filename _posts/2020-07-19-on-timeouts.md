@@ -11,7 +11,7 @@ Longer timeouts (for downstream dependencies) are tying request handling threads
 Upstream services have a higher chance of this happening since they are, by definition, waiting longer for the response compared to downstream services (response time of a given service is proportional to the number of downstream dependencies) and thus needs to be planned accordingly in terms of capacity.
 The first service that fails in the call chain is propagating failure upstream until the whole system becomes unavailable.
 
-It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since if they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
+It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since when they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
 Meaning, the service with high fan-in factor should have more aggressive timeouts towards the downstream dependencies.
 
 Also, timeouts help with system (service) availability, but not necessarily with the business availability.
