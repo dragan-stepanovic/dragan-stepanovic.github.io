@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slow tests can help you deliver value sooner"
+title:  "Slow tests can help you find a way to deliver value sooner"
 ---
 
 Test execution time can tell you a lot about design of your service. If you have a bunch of domain logic in the parts of the service where it shouldn’t be (controllers, repositories, external gateways or any adapter of that sort), your tests have to spin up a mock MVC or embedded database or stub service in order to test it. The more logic you have in these parts of the app, the more tests you'll have against them, the slower the test suite.
