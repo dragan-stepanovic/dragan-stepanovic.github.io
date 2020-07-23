@@ -39,8 +39,8 @@ Point that I'm trying to make is that every (distributed) system has a constrain
 
 There's also concept of Drum-Buffer-Rope in Theory of Constraints.  
 
-_Drum_ is dictated by the rate of processing of the constraint (database).
-_Buffer_ is inventory in front of the constraint (number of threads in queue in front of the database).
+_Drum_ is dictated by the rate of processing of the constraint (database).  
+_Buffer_ is inventory in front of the constraint (number of threads in queue in front of the database).  
 _Rope_ serves as a signal for the top most service to allow the next request in the call chain to pass.  
 
 So, the constraint should be the one signaling to the rest of the system when to allow the next request.
