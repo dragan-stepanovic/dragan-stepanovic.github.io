@@ -14,7 +14,7 @@ Upstream services have a higher chance of this happening since they are, by defi
 
 ##### Timeouts don't help with business availability
 Also, timeouts help with system (service) availability, but not necessarily with the business availability.
-If we have A→B→C service chain and B timeouts for A, then A is going to be able to accept requests, but not to fulfill them. Service is up, but not able to fulfill business capability, which is the same as if service was down. So, timeouts don't help us with business availability in this case, but can help us with being able to respond to requests that don't go down the path of B→C in order to fulfill the given use case.
+If we have A→B→C service chain and B timeouts for A, then A is going to be able to accept requests, but not to fulfill them. Technically speaking service is up, but not able to fulfill use case (business capability), which is the same as if service was down. So, timeouts don't help us with business availability in this case, but can help us with being able to respond to requests that don't go down the path of B→C in order to fulfill the given use case.
 
 ##### Services with higher fan-in factor bring more of a system down
 It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since when they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
