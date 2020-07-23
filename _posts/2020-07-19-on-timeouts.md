@@ -14,13 +14,23 @@ Upstream services have a higher chance of this happening since they are, by defi
 
 ##### Timeouts don't help with business availability
 Also, timeouts help with system (service) availability, but not necessarily with the business availability.
-If we have A→B→C service chain and B timeouts for A, then A is going to be able to accept requests, but not to fulfill them. Technically speaking service is up, but not able to fulfill use case (business capability), which is the same as if service was down. So, timeouts don't help us with business availability in this case, but can help us with:
+If we have A→B→C service chain and B times out for A, then A is going to be able to accept requests, but not to fulfill them. Technically speaking service is up, but not able to fulfill use case (business capability), which is the same as if service was down. So, timeouts don't help us with business availability in this case, but can help us with:
 - allowing downstream service to recover faster and
 - being able to respond to requests that don't go down the path of B→C in order to fulfill the given use case
 
 ##### Services with higher fan-in factor bring more of a system down
 It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since when they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
 Meaning, the services with high fan-in factor are bottlenecks in terms of the system availability and thus should have more aggressive timeouts towards the downstream dependencies in order to release request-handling threads faster and not bring the rest of the system down with it.
+
+##### Timeouts and Theory of Constraints
+Consider two following scenarios:
+
+![](/assets/images/timeouts.png)
+
+Numbers on the arrows are timeouts that are specified for each downstream service. C has timeout of 10s against database, B has timeout of 20s against C and A has timeout of 30s against B. 
+In case database hangs because certain query takes longer time to execute, C will time out after 10s and this is going to propagate upstream. Meaning, request-handling threads in B and A are going to be released back to the pool after ~10 sec.
+
+In the second case though, C has timeout against database that is longer than timeouts in the upstream services. If C hangs for 30s, B is going to time out against it and release its thread after 20s and A is going to time out and release its thread after 10s. What usually happens is that A and B have retries in place, so will fire another downstream request towards C and same thing is going to happen for another thread in C. What this means is that exhaustion rate of thread pools in A, B, C is different (exhaustion rate in C is fastest, while in A it's slowest) and that "services are running at different speeds". There retries can be "automatic" coded in upstream service or manual, where user sees that their request didn't go through and then they initiate another request (refresh the page, click the button again, etc.). Constraint here is the slowest resource in the given use case and in this particular case it's database and the queue of requests in front of it (requests sent from C to database) is building up fastest in the whole call chain. When we have a constraint in the system (sometimes called bottleneck), Theory of Constraints says that in order for the system to have the highest throughput, all other parts of the system have to run at the speed of the constraint. If they run faster (this is called local optimizations in ToC), system as a whole is not only not going to be able to run faster, but it's actually going to start running slower and slower. So the system is not going to run slower and slower __in spite__ of the upstream services trying hard to call the downstream service, but __because__ of it!
 
 ##### Timeouts and business value
 Also, if there are, say, 2 downstream endpoints that a given service calls and one of those is for a use case which is, from the business value perspective, more important than the other one, then the recommended heuristic is that the timeout for the less important one should be more aggressive. That's because duration of the timeout for the downstream dependencies is directly proportional to the rate/speed at which we're going to eat up the request-handling thread pool in the service. We don't want less valuable functionality to eat it (faster) and jeopardize the more important functionality (more valuable downstream endpoint) of becoming unavailable.  
