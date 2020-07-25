@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Event Sourcing and cheap storage space as enablers of ever higher scalability
-disqus: true
 ---
 
 
