@@ -1,7 +1,6 @@
 ---
 layout: post
 title: It's not about long-lived branches that's a problem
-disqus: true
 ---
 
 It's not about long-lived branches per se that's an anti-pattern. It's about coding in isolation for too long without getting the feedback.
