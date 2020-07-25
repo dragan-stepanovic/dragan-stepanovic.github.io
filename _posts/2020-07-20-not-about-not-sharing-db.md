@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's not about not sharing the same database
+title: It's not about not sharing the same database that's a problem
 comments: true
 ---
 
