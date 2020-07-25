@@ -1,12 +1,13 @@
 ---
 layout: post
-title: >
-      "Just don't make me talk to a human"
+title: It's not about not sharing the same database
 ---
 
-Developers will agree to change their Pull Request workflow and:
-- move from long-lived to short-lived branches
-- have a process of at least one person reviewing their every Pull Request
-- keep being interrupted to review (precisely add "LGTM 👍" to) bunch of other Pull Requests
+One more in "it's not about X. It's about about Y" series.
 
-"Just don't make me pair and interact with a human."
+It's not about not sharing database.
+It's about not being semantically coupled to other services.
+
+We can be not sharing databases, but still share too much data or too implicit data and semantically couple.
+
+And these days, it most often happens through messaging infrastructure.
