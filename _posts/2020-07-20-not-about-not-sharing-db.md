@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's not about sharing the same database that's a problem
-comments: true
+disqus: true
 ---
 
 One more in "it's not about X. It's about about Y" series.
