@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Measuring flow efficiency in software development"
+title:  Measuring flow efficiency in software development
 ---
 
 
