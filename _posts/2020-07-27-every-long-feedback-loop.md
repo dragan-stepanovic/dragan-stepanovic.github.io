@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Every long feedback loop is caused by
+title: Every long feedback loop 
 ---
 
-(most probably) caused by:
+is (most probably) caused by:
 
 - big batch
 - delay caused by high utilization (high WIP) and/or
