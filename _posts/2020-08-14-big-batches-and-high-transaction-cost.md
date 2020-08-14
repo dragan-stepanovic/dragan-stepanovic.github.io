@@ -10,10 +10,10 @@ So, in order to enable small batches, look for places in the system where the tr
 
 Continuous Delivery reduced transaction cost of deployments using automation.
 
-XP reduces:
-- transaction cost of code review using Pair/Mob programming
-- transaction cost of change using Refactoring
-- transaction cost of verification using TDD
-- transaction cost of code integration using Continuous Integration.
+XP reduces transaction cost of:
+- code review using Pair/Mob programming
+- change using Refactoring
+- verification using TDD
+- code integration using Continuous Integration.
 
 All of these mechanisms are implementations of "keep inventory low" principle from Lean.
