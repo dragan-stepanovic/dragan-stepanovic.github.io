@@ -1,5 +1,5 @@
 ---
-title: Lack of availab
+title: High transaction cost incentivizes for big batches
 ---
 
 
