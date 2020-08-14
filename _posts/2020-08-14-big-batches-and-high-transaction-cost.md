@@ -12,8 +12,8 @@ Continuous Delivery reduced transaction cost of deployments using automation.
 
 XP reduces transaction cost of:
 - code review using Pair/Mob programming
-- change using Refactoring
-- verification using TDD
+- code change using Refactoring
+- code verification using TDD
 - code integration using Continuous Integration.
 
 All of these mechanisms are implementations of "keep inventory low" principle from Lean.
