@@ -3,8 +3,7 @@ title: High transaction cost incentivizes for big batches
 ---
 
 High transaction cost incentivizes for big batches. And lack of availability, causing long waiting times, drives the transaction cost up.
-So, in order to enable small batches, look for places in the system where the transaction cost, either real or perceived, is high and try to intervene at those points.
-
+So, in order to enable smaller batches, look for places in the system where the transaction cost, either real or perceived, is high and try to intervene at those points by finding a way to reduce that transaction cost.
 
 
 Continuous Delivery reduced transaction cost of deployments using automation.
