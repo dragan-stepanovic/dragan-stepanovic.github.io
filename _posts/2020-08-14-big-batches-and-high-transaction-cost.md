@@ -22,5 +22,6 @@ All of these mechanisms are implementations of "keep inventory low" principle fr
 Often, after some point, it's not possible to further reduce the transaction cost if there's no current capability in the system to enable that.
 Think, manual deployments. Simply doing (trying to) manually deploy often won't help with ["bringing the pain forward"](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html). A mechanism that enables that, reducing transaction cost by automation in this case, has to be put in place.  
 
-Another example are PRs. After some point, reducing PR size when using PR workflow stops, because the transaction cost of creating a branch, opening PR, waiting for review, etc. for a one-liner PR is going to be too expensive and it incentivizes the actors in the system to revert back to bigger PRs.
-After the step of reducing the average PR size, I have to remove Github PRs capability altogether in order to enable further reduction of the transaction cost and thus move to in sync, immediate code review, i.e. Pairing/Mobbing.
+Another example are PRs. After some point, further reduction of PR size when using PR workflow is not possible or too difficult, because the transaction cost of creating a branch, opening PR, waiting for review, etc. for a one-liner PR is going to be interpreted as too expensive and it incentivizes the actors in the system to revert back to bigger PRs.
+
+After the step of reducing the average PR size, I have to remove e.g. Github's PR capability altogether in order to enable further reduction of the transaction cost that will enable even smaller batches (in sync, immediate code review, i.e. Pairing/Mobbing).
