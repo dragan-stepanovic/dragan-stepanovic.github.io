@@ -10,7 +10,7 @@ So, in order to enable small batches, look for places in the system where the tr
 
 Continuous Delivery reduced transaction cost of deployments using automation.
 
-XP reduces transaction cost of:
+XP reduced transaction cost of:
 - code review using Pair/Mob programming
 - code change using Refactoring
 - code verification using TDD
