@@ -1,5 +1,5 @@
 ---
-title: Big batches hide a real demand and drive throughput of the value down
+title: Big batches hide a real demand and decrease throughput of the value
 ---
 
 Big batches lock the capacity of a team for a longer time, which renders the team unresponsive for a longer time.
