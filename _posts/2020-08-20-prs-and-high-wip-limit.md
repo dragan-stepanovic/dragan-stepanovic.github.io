@@ -13,5 +13,5 @@ The lowest one you'll get with one-piece-flow when mobbing.
 Lower WIP reduces lead times and increases throughput.
 Not to mention the difference in quality you'll get.  
 
-PRs based workflow is, by definition, decreasing the throughput, increasing lead times and killing your flow efficiency.
+PRs based workflow is, by definition, decreasing the throughput, increasing lead times, and killing your flow efficiency.
 Don't even get me started on quality (theather) you get because of it.
