@@ -19,5 +19,5 @@ Don't even get me started on quality (theather) you get because of it.
 
 Show some love to your team's flow.  
 It will help you relieve the pressure.  
-It will help you with building the quality in.  
+It will help you build the quality in.  
 It will help you sleep better.
