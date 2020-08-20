@@ -4,7 +4,7 @@ title: PR based workflow is killing your throughput
 
 Here's the thing.  
 
-If you have any PR waiting for a review, your WIP limit is too high.  
+If you have any PR waiting for a review, your WIP limit is already too high.  
 If it wasn't, you wouldn't have any queue/wait time.  
 
 The highest WIP limit you should have is the one you get when pairing.
