@@ -17,4 +17,4 @@ PRs based workflow is, by definition, decreasing the throughput, increasing lead
 Don't even get me started on quality (theather) you get because of it.
 
 Show some love to your team's flow.
-It will help you relieve the pressure, build the quality in, and sleep better.
+It will help you relieve the pressure, build the quality in, and sleep better at night.
