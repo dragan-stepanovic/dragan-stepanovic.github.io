@@ -16,8 +16,5 @@ Not to mention the difference in quality you'll get.
 PRs based workflow is, by definition, decreasing the throughput, increasing lead times, and killing your flow efficiency.  
 Don't even get me started on quality (theather) you get because of it.
 
-
-Show some love to your team's flow.  
-It will help you relieve the pressure.  
-It will help you build the quality in.  
-It will help you sleep better.
+Show some love to your team's flow.
+It will help you relieve the pressure, build the quality in, and sleep better.
