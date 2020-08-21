@@ -6,8 +6,8 @@ Big batches lock the capacity of a team for a longer time, which renders the tea
 
 There are two interesting things that happen at that moment:
 
-1) Clients give up at asking your team for a request, which hides the real demand, or
-2) If they manage to get a hold of the team, they increase the request batch size since they are not sure when is the next time they are going to get a hold of the team and fulfill their needs. And, as you can imagine, this locks the team for even longer periods of time working mostly on low-value stuff. Stuff that clients are not even sure if they will need, which is packed together with a small percent of high-value stuff in that huge batch. 
+1. Clients give up at asking your team for a request, which hides the real demand, or
+2. If they manage to get a hold of the team, they increase the request batch size since they are not sure when is the next time they are going to get a hold of the team and fulfill their needs. And, as you can imagine, this locks the team for even longer periods of time working mostly on low-value stuff. Stuff that clients are not even sure if they will need, which is packed together with a small percent of high-value stuff in that huge batch. 
 
 What we, in the end, get is big batches incentivizing hiding of the real demand and ever-lower throughput of the value (ratio between low-value to high-value stuff increases, because of increasing lack of responsiveness).
 
