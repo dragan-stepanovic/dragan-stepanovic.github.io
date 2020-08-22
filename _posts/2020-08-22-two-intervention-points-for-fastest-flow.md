@@ -1,8 +1,8 @@
 ---
 title: Two intervention points for fastest flow
 ---
-You cannot have a fast feedback loop if you don't have small batches.
-But, you can have a long feedback loop even if you have small batches.
+You cannot have a fast feedback loop if you don't have small batches.  
+But, you can have a long feedback loop even if you have small batches.  
 That's the case when WIP is too high, which causes queueing in the system, which then delays the feedback.  
 
 Also, you cannot have smaller batches if the transaction cost is high because high transaction cost incentivizes actors for batching up the work.  
