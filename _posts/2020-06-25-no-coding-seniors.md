@@ -15,4 +15,4 @@ This post gained quite some traction on [LinkedIn](https://www.linkedin.com/post
 Having some comments in mind, I'd like to note that often times (always?) assumptions that we carry with us are the reflections of our previous experiences, so if this post provokes strong emotions in you, try to reflect on that and ask what's the thing that you've perhaps experienced that provoked such a reaction in you. Forget about the post. That's the most important thing you can get at that moment.
 
 
-Second note: Don't try this in environments with low trust and lack of psychological safety. I'd say you have way more important things to solve before that.
+Second note: Don't try this in environments with low trust and lack of psychological safety. I'd say you have way more important things to focus on solving before that.
