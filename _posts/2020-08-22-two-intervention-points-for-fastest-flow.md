@@ -1,5 +1,5 @@
 ---
-title: Two intervention points for fastest flow
+title: Two intervention points for the fastest flow
 ---
 I cannot have a fast feedback loop if I don't have small batches.  
 But, I can have a long feedback loop even if I have small batches.  
