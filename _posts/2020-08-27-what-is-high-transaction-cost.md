@@ -2,7 +2,7 @@
 title: What is high transaction cost?
 ---
 
-An example is: How long it takes us to get enough confidence that our change didn't break previous functionality.
+An example is of transaction cost is how long it takes us to get enough confidence that our change didn't break previous functionality.
 
 If it takes me a long time to do this (high transaction cost) because, perhaps, of manual testing, that high transaction cost will incentivize actors to batch up the work (increase the batch size) that comes before testing/checking.
 
