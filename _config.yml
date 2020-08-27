@@ -8,7 +8,7 @@ logo: false
 paginate: 10
 baseurl: http://www.draganstepanovic.com/
 domain_name: 'https://dragan-stepanovic.github.io'
-permalink: /:title
+#permalink: /:title/
 google_analytics: 'UA-99087676-3'
 gems: [jekyll-paginate]
 plugins: [jekyll-paginate]
