@@ -6,7 +6,7 @@ I'm aware that many people like async way of working, which usually comes with r
 
 Async way of working inherently drives queue times up, which incentivizes pulling more stuff in, which drives waiting times even higher.
 
-People feel they are productive, while teams and companies are very much opposite of that.
+Individual people feel they are productive, while teams and companies are very much opposite of that.
 
 It's not about remote per se, but about async way of working which is very often incentivized with remote work.
 Async inherently means queue time. "the other side" is not yet available because it's working on the other thing.  
