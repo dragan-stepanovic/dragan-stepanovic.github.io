@@ -2,7 +2,7 @@
 title: Async work is causing your company's WIP to skyrocket
 ---
 
-I'm aware that many people like async, remote work, but it's actually causing WIP to skyrocket.
+I'm aware that many people like async way of working, which usually comes with remote work, but it's actually causing your company's WIP to skyrocket.
 
 Async way of working inherently drives queue times up, which incentivizes pulling more stuff in, which drives waiting times even higher.
 
