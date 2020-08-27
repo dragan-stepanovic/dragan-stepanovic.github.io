@@ -1,7 +1,7 @@
 ---
-title: In most of the cases a big batch
+title: In most of the cases a big batch is
 ---
 
-is an indication of a lack of mechanism to reduce the transaction cost.
+an indication of a lack of mechanism to reduce the transaction cost.
 
 Building that capability is an enabler for batch size reduction.
