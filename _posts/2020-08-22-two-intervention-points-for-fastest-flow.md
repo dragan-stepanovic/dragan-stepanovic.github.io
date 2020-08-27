@@ -9,5 +9,5 @@ Also, I cannot have smaller batches if the transaction cost is high because high
 Thus, I'll need to reduce the transaction cost in order to enable smaller batches.  
 
 So, there are two points of intervention in the system that lead to a faster (most probably the fastest) flow and __guarantee__ fast feedback and building the quality in:  
-1. reducing transaction cost in order to enable batch size reduction, and
-2. reducing WIP limit in order to minimize queueing
+1. reducing WIP limit in order to minimize queueing, and
+2. reducing transaction cost in order to enable batch size reduction
