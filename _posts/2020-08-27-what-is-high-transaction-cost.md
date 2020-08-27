@@ -10,4 +10,4 @@ One way to reduce the transaction cost in this example would be to invest in aut
 
 Same thing with the deployments (automation) or PR reviews (moving to pair programming) that take a long time.
 
-The fact that it takes a long time is communicating to the actors that this step is expensive, so they are naturally incentivized towards behavior that provides them a better unit economics.
+The fact that it takes a long time is communicating to the actors in the system that this step is expensive, so they are naturally incentivized towards behavior that provides them a better unit economics, which in this case means increasing the batch size
