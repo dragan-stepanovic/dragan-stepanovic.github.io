@@ -1,7 +1,7 @@
 ---
 title: Two intervention points for the fastest flow
 ---
-I cannot have a fast feedback loop if I don't have small batches.  
+I cannot have a short feedback loop if I don't have small batches.  
 But, I can have a long feedback loop even if I have small batches.  
 That's the case when WIP is too high, which causes queueing in the system, which then delays the feedback.  
 
