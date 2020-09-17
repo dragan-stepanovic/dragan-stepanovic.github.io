@@ -4,7 +4,7 @@ title: Big Batches™ and assumptions
 
 Big Batches™:
 - embed more assumptions
-- embed way more second order assumptions caused by product of first order assumptions (A x B x C x ... x N), and
+- embed way more second order assumptions as a product of first order assumptions (A x B x C x ... x N), and
 - carry all of these for a longer time
 
 Small Batches™ embed:
