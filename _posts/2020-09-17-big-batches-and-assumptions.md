@@ -14,4 +14,5 @@ Small Batches™ embed:
 
 Which one of these are likely to have more waste compared to the amount of effort invested?   
 Or, to rephrase it, which one of these has higher effort/value ratio?  
+
 If this is not lose-lose-lose vs win-win-win, I'm not sure what is then.
