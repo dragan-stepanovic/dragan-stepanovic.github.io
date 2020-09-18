@@ -6,6 +6,6 @@ Collaboration dilutes roles, siloed skills, heroes culture, and variance in enga
 
 Wondering how many performance management systems unintentionally inhibit collaboration because managers would then have a way harder time to figure out whom to promote.  
 
-And this is likely driving local optimizations that you wanted to evade in the first place.  
+And this is goal is very likely driving local optimizations that you wanted to evade in the first place.  
 
 The problem is in the system, not in the people.
