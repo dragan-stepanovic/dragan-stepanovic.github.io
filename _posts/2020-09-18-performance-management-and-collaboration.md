@@ -1,5 +1,5 @@
 ---
-title: Performance management is suppressing collaboration
+title: Performance management and collaboration
 ---
 
 Collaboration dilutes roles, siloed skills, heroes culture, and variance in engagement.  
