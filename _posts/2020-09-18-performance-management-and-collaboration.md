@@ -2,7 +2,7 @@
 title: Performance management and collaboration
 ---
 
-Collaboration dilutes roles, siloed skills, heroes culture, and variance in engagement.  
+More collaboration dilutes roles, siloed skills, heroes culture, and variance in engagement.  
 
 Wondering how many performance management systems unintentionally inhibit collaboration because managers would then have a way harder time to figure out whom to promote.  
 
