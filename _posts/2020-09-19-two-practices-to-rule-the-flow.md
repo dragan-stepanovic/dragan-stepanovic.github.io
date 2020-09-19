@@ -20,7 +20,7 @@ That's all you need.
 
 I know. Easier said than done 😊
 
-The road is definitely challenging, but out of all the things that a team and org can focus on there are only two practices that guarantee high quality with fast flow.
+The road is definitely challenging, but out of all the things that a team and org can focus on there are only two practices that guarantee fast flow _with_ high quality.
 
 
 
