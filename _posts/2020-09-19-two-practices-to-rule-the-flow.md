@@ -1,5 +1,5 @@
 ---
-Title: Two Lean practices to rule the flow
+title: Two Lean practices to rule the flow
 ---
 
 Building the quality in cannot happen without a short feedback loops.
