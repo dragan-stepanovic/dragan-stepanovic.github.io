@@ -1,5 +1,5 @@
 ---
-title: In most of the cases a big batch is
+title: In most cases a big batch is
 ---
 
 an indication of a lack of mechanism to reduce the transaction cost.
