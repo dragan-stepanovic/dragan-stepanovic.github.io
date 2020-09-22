@@ -1,5 +1,5 @@
 ---
-title: Two Lean practices to rule the flow
+title: XP practices to rule the flow
 ---
 
 Building quality in and fast flow cannot happen without short feedback loops.  
