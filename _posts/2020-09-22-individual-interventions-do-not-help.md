@@ -3,7 +3,7 @@ title: Individual interventions in the system do not help
 ---
 
 
-System with high transaction cost will always revert back to big batches no matter how much we try to encourage individual actors to reduce the size of the batch.
+Systems with high transaction cost will always revert back to big batches no matter how much we try to encourage individual actors to reduce the size of the batch.
 Actors act rationally within a given set of constraints imposed by the system, so the intervention point must be on the system level, not on the individual level.
 
 An example:
