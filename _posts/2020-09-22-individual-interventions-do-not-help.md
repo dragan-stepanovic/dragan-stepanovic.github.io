@@ -9,4 +9,4 @@ Actors act rationally within a given set of constraints imposed by the system, s
 An example:
 If the price of code review is high because the utilization of people is high and they are busy most of the time, PR size will naturally slide back to the size most sensible for that transaction cost, i.e. big PR.
 
-In order to reduce the transaction cost the availability of people has to go up, i.e. utilization must go down. And a way to _guarantee_ that availability in order to minimize the transaction cost of code review is pair/mob programming.
+In order to reduce the transaction cost the availability of people has to go up, i.e. utilization must go down. And a way to __guarantee__ that availability in order to minimize the transaction cost of code review is pair/mob programming.
