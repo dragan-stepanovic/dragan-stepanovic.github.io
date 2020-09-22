@@ -1,5 +1,5 @@
 ---
-title: What is high transaction cost?
+title: What is a high transaction cost?
 ---
 
 An example is of transaction cost is how long it takes us to get enough confidence that our change didn't break previous functionality.
