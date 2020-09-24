@@ -12,7 +12,7 @@ Small Batches™ embed:
 - less second-order assumptions
 - carry all of these for a shorter time
 
-Which one of these are likely to have more waste compared to the amount of effort invested?   
-Or, to rephrase it, which one of these has higher effort/value ratio?  
+Which one of these is likely to have more waste compared to the amount of effort invested?   
+Or, to rephrase it, which one of these has a higher effort/value ratio?  
 
-Lose-lose-lose vs win-win-win, if you ask me.
+Lose-lose-lose vs win-win-win if you ask me.
