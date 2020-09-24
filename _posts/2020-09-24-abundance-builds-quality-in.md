@@ -1,5 +1,5 @@
 ---
-title: Do you know that code reviews in Pair/Mob Programming are virtually free?
+title: Do you know that code reviews with Pair/Mob Programming are virtually free?
 ---
 
 
