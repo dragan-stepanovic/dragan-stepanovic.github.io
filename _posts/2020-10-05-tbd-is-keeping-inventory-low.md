@@ -9,3 +9,5 @@ The lower you keep this inventory, the more of Trunk Based Development you're do
 But keep in mind that this inventory is a function of both:
 - the time since the last integration and
 - amount of code not integrated
+
+Also, larger amount of code not integrated drives the time since the last integration up.
