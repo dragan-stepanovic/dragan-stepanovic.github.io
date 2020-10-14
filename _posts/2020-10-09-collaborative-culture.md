@@ -21,4 +21,4 @@ Silos created because of the same reason (product throwing over the wall to desi
 
 Management thinking that promotion is earned by the individual effort and that only big efforts bring promotion.
 
-Focusing on roles and titles instead of skills. We need a Product Manager, vs. we need product management skills.
+Focusing on roles and titles instead of skills. "We need a Product Manager", vs. "we need product management skills".
