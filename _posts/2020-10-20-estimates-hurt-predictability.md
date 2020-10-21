@@ -6,4 +6,4 @@ Actually, most often they hurt predictability because of a narrow focus on achie
 
 Predictability is achieved deeper in the system, by building quality in and having a steady and sustainable cadence.
 
-![](/assets/images/estimates-hurt-predictability-3.png)
+![](/assets/images/estimates-hurt-predictability.png)
