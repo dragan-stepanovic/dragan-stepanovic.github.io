@@ -1,5 +1,5 @@
 ---
-title: It is more likely
+title: It is more likely that
 ---
 
-that you'll do Continuous Integration with centralized (e.g. Subversion) than with a distributed versioning control system (e.g. Git).
+you'll do Continuous Integration with centralized (e.g. Subversion) than with a distributed versioning control system (e.g. Git).
