@@ -2,7 +2,7 @@
 title: Architecture influences the need for documentation
 ---
 
-Have you thought about how architecture and functional decomposition of a system influences documentation and a need for it? 🙂
+Have you thought about how architecture and functional decomposition of a system influence documentation and a need for it? 🙂
 
 When I encounter entity service antipattern, I also tend to encounter lots of time spent on and a need for writing service usage documentation.
 
