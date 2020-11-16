@@ -19,4 +19,4 @@ But, interruptions exist only if reviewers are interrupted in doing something el
 
 So, the availability of the reviewers is what makes that balancing feedback loop disappear.
 
-Does it now make sense why pairing/mobbing is the only way from systemic point of view to continue reducing the batch size (to a single line of code change!) => ships things sooner => accelerates the feedback => builds the quality in?
+Does it now make sense why pairing/mobbing is the only way to continue reducing the batch size (to a single line of code change!), which means ships things sooner, which means, accelerating the feedback, which means building in the quality (both external and internal)?
