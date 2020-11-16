@@ -14,7 +14,7 @@ Meaning, motivation to review is conflicted from two sides (number of interrupti
 
 ![](/assets/images/pr-balancing-feedback.png)
 
-And they exist only if reviewers are interrupted in doing something else.
+But, interruptions exist only if reviewers are interrupted in doing something else.
 
 But if they are doing nothing else they cannot be interrupted
 ![](https://i.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.webp)
