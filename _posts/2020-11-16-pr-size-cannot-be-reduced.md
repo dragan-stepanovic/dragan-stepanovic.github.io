@@ -17,7 +17,7 @@ Meaning, motivation to review is conflicted from two sides (number of interrupti
 And they exist only if reviewers are interrupted in doing something else.
 
 But if they are doing nothing else they cannot be interrupted
-![](https://pyxis.nymag.com/v1/imgs/d6a/dc7/4a5001b7beea096457f480c8808572428b-09-roll-safe.rsquare.w700.jpg)
+![](https://i.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.webp)
 
 So, the availability of the reviewers is what makes that balancing feedback loop disappear.
 
