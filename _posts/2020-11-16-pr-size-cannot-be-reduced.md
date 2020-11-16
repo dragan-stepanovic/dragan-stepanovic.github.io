@@ -12,10 +12,12 @@ And, the more often I'm interrupted, the less I'll be willing to continue priori
 So, interruptions are the cause of a balancing feedback loop preventing the system from reducing the batch size further.
 Meaning, motivation to review is conflicted from two sides (number of interruptions vs size of the PR) which prevents further reduction of PR size by a need to trade-off between these two.
 
+![](/assets/images/pr-balancing-feedback.png)
+
 And they exist only if reviewers are interrupted in doing something else.
 
 But if they are doing nothing else they cannot be interrupted
-https://pyxis.nymag.com/v1/imgs/d6a/dc7/4a5001b7beea096457f480c8808572428b-09-roll-safe.rsquare.w700.jpg
+![](https://pyxis.nymag.com/v1/imgs/d6a/dc7/4a5001b7beea096457f480c8808572428b-09-roll-safe.rsquare.w700.jpg)
 
 So, the availability of the reviewers is what makes that balancing feedback loop disappear.
 
