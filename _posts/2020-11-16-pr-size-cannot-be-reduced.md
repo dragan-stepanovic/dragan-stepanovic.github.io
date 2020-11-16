@@ -14,9 +14,7 @@ Meaning, motivation to review is conflicted from two sides (number of interrupti
 
 ![](/assets/images/pr-balancing-feedback.png)
 
-But, interruptions exist only if reviewers are interrupted in doing something else.
-
-But if they are doing nothing else they cannot be interrupted
+But, interruptions exist only if reviewers are interrupted in doing something else. So, if they are doing nothing else, they cannot be interrupted, right?
 ![](https://i.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.webp)
 
 So, the availability of the reviewers is what makes that balancing feedback loop disappear.
