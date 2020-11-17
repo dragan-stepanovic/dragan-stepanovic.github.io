@@ -1,5 +1,5 @@
 ---
-title: Because the cost of code review when pair/mob programming is almost zero
+title: Because the cost of code review when pair/mob programming is zero
 ---
 Because the cost of code review when pair/mob programming is almost zero (reviewer available next to a developer typing the code), the more likely it is to both get the feedback and to get it in a timely manner (as you type the code).
 
