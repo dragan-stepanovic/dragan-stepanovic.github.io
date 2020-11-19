@@ -7,3 +7,4 @@ Build quality in by shifting left on the collaboration. Instead of mobbing on th
 And guess what. You get to reduce MTTR out of the box as well because more people will know the details of the system and be able to react sooner because of the situational awareness collaboration has created.
 
 The highest leverage for system resilience comes from the shared mental model, not circuit breakers/bulkheads/timeouts.
+The resilience of the system reflects the resilience of team/org shared mental model or the lack of it.
