@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your sense of relief is indication of a too long feedback loop"
+title:  "#NoEvents"
 ---
 
 In systems with very short feedback loops there are almost no events. Everything seems to be boring.
