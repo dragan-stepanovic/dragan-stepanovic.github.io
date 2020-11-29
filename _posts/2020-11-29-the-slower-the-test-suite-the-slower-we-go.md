@@ -6,4 +6,4 @@ The slower the test suite, the less often we'll run it, the more we'll backtrack
 
 We need a good (i.e. testable) design to enable a fast test suite, so we can go faster by being able to minimize retracing.
 
-That's one of the interplays of the XP practices.
+That's one of the interplays between XP practices.
