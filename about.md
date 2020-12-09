@@ -4,7 +4,7 @@ title: About me
 ---
 
 Trying hard not to think about small batches, bottlenecks, and systems.  
-In the meantime: XP, Lean, Theory of Constraints, Systems Thinking, DDD/CQRS/Event Sourcing, Microservices.  
+In the meantime: XP, Theory of Constraints, Lean, Systems Thinking, DDD, Craft.  
 
 ![](/assets/images/profile_resized.jpg)
   
