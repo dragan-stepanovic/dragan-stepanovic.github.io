@@ -5,7 +5,7 @@ title: Wondering why your efforts to reduce PR size further are not going to wor
 
 With every halving of the PR size, you get 2x more interruptions for each of the reviewers of a given PR.
 Multiply that by the number of PRs in flight (one person, one PR) and you get the total number of interruptions in the team.  
-E.g. if it's mandatory for at least one person to review the PR and if you have 4 developers in a team, total number of interruptions in the team increases 8 times (4x2). Just for one halving of the PR!
+E.g. if it's mandatory for at least one person to review a PR and if you have 4 developers in a team, total number of interruptions in the team increases 8 times (4x2). Just for one halving of the PR!
 
 
 And, the more often I'm interrupted, the less I'll be willing to continue prioritizing review over my own work, which then delays the review, incentivizes batch size increase ("review is not as cheap as you thought"), which then reduces (balances) the number of interruptions.
