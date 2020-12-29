@@ -1,5 +1,5 @@
 ---
-title: Leave No One Behind
+title: Leave No Teammate Behind
 ---
 
 What if we shift thinking from  
@@ -7,6 +7,6 @@ What if we shift thinking from
 to  
 "everyone helping each other finish what they're doing"?  
 
-Leave no one behind.
+Leave no teammate behind.
 
 #pairing #mobbing
