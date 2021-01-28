@@ -1,7 +1,7 @@
 ---
-title: Mobbing on the outage if not mobbing on development
+title: The amount of mobbing during development
 ---
 
-It's more likely that a team will need to mob on an outage if they're not mobbing during the development.
+tends to be inversely proportional to the amount of mobbing needed during outages.  
 
-And it's going to cost them way more than they'd be willing to pay.
+Plus, mobbing during outages is going to cost us way more than we'd be willing to pay.
