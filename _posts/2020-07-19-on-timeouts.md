@@ -42,7 +42,8 @@ _Drum_ is dictated by the rate of processing of the constraint (database).
 _Buffer_ is inventory in front of the constraint (number of threads in queue in front of the database).  
 _Rope_ serves as a signal for the top most service to allow the next request in the call chain to pass.  
 
-So, the constraint should be the one signaling to the rest of the system when to allow the next request. Meaning, database should be the one dictating rate of requests that we allow into the system.
+So, the constraint should be the one signaling to the rest of the system when to allow the next request. Meaning, database should be the one dictating rate of requests that we allow into the system.  
+Circuit breakers and limiting amount of retries is actually the application of this idea, although we can even do better and not even accept requests at the entry of the system if the constraint is hammered. It allows for even quicker recovery during the problem and once starts picking up the pace again.
 
 ##### Timeouts and business value
 Also, if there are, say, 2 downstream endpoints that a given service calls and one of those is for a use case which is, from the business value perspective, more important than the other one, then the recommended heuristic is that the timeout for the less important one should be more aggressive. That's because duration of the timeout for the downstream dependencies is directly proportional to the rate/speed at which we're going to eat up the request-handling thread pool in the service. We don't want less valuable functionality to eat it (faster) and jeopardize the more important functionality (more valuable downstream endpoint) of becoming unavailable.  
