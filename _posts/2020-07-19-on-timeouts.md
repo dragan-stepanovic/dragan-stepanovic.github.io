@@ -36,7 +36,7 @@ When we have a constraint in the system (sometimes called the bottleneck), ToC s
 
 Point I'm trying to make is that every (distributed) system has a constraint and in order for it have the highest throughput and avoid whole system outage, _timeouts from the upstream services must not be shorter than the timeouts of the downstream services_.
 
-There's also concept of Drum-Buffer-Rope in Theory of Constraints.  
+There's also a concept of Drum-Buffer-Rope in the Theory of Constraints.  
 
 _Drum_ is dictated by the rate of processing of the constraint (database).  
 _Buffer_ is inventory in front of the constraint (number of threads in queue in front of the database).  
