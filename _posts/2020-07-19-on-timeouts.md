@@ -21,7 +21,7 @@ If we have A→B→C service chain and B times out for A, then A is going to be 
 It also depends on the fan-in factor of a given service. Usually, the more downstream we go, the higher fan-in we have. This indicates services that we need to be more careful about, since when they become unavailable they are bringing more of a system down with them than the services that have lower fan-in factor.
 Meaning, the services with high fan-in factor are bottlenecks in terms of the system availability and thus should have more aggressive timeouts towards the downstream dependencies in order to release request-handling threads faster and not bring the rest of the system down with it.
 
-##### Timeouts and Theory of Constraints
+##### Timeouts and the Theory of Constraints
 Consider two following scenarios:
 
 ![](/assets/images/timeouts.png)
