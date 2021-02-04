@@ -8,9 +8,9 @@ The famous business model he drew on a napkin is coming from ToC's Throughput Ac
 
 ![](/assets/images/bezos-napkin.png)  
 
-Also, if you're wondering how Amazon was able to achieve same-day delivery, again ToC is the answer.
+Also, if you're wondering how Amazon was able to achieve same-day delivery. Again, ToC is the answer.
 
-How much it influenced the way he thinks I got to understand in [this article](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping) I found.
+And how much it influenced the way he thinks I got to understand in [this article](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping) I found.
 
 
 Here's an excerpt:
