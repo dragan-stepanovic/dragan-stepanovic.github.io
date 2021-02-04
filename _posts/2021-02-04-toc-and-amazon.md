@@ -4,13 +4,13 @@ title: The Theory of Constraints and Amazon
 Not sure how much it's known, but Jeff Bezos is a huge fan of the Theory of Constraints.
 Such a big fan that 'The Goal' from Eli Goldratt is one of the 3 must-read books he gives out to all senior executives joining Amazon.
 
-The famous business model he drew on a napkin is coming from ToC's Throughput Accounting idea.
+The now-famous business model he drew on a napkin is coming from ToC's Throughput Accounting.  
 
 ![](/assets/images/bezos-napkin.png)  
 
 Also, if you're wondering how Amazon was able to achieve same-day delivery. Again, ToC is the answer.
 
-And just how much it influenced the way he thinks I got to understand in [this article](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping) I found.
+Just how much it influenced the way he thinks I got to understand in [this article](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping) I found.
 
 
 Here's an excerpt:
