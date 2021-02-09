@@ -17,7 +17,7 @@ In the second case we get to understand that:
 
 My advice: prefer optimizing for explicitness and readability.
 
-There's a pandora box full of great opportunities that lead you from that point. Opportunities for testability, better design, readability, and domain insights.
+There's a box full of great opportunities awaiting you from that point on. Opportunities for testability, better design, readability, and domain insights.
 
 Note: If we're in fact sending an email to ourselves, I'd go ahead and extract this method into `send_email_to_ourselves` and just pass a single email address.
 But this design decision became way more obvious because I made the previous intentions explicit in the first place.
