@@ -11,7 +11,7 @@ The first example has fewer lines of code compared to the second. But the amount
 
 In the second case we get to understand that:  
 1. `some.sender@gmail.com` is a sender  
-2. that the receiver is the same as the sender (we send the email to ourselves), and
+2. that the receiver is the same as the sender (we send the email to ourselves). I'd even extract that assignment into `receiver_email = same_as(sender_email)` to make that knowledge explicit
 3. we get to understand the `sendmail` method call better since we don't have to jump into the method body to understand which parameter is which
 4. this also helps us when changing the code on this client's side and reduce chances for swapping the parameter unintentionally
 
