@@ -5,7 +5,7 @@ title: Optimize your code for explicitness
 
 Two super simple examples, achieving the same thing.
 
-![]()
+![](/assets/images/explicit_code.png)
 
 The first example has fewer lines of code compared to the second. But the amount of domain knowledge that we made implicit (and thus lost since we failed to communicate it) when optimizing for that metric is disproportional.
 
