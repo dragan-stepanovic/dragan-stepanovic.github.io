@@ -12,4 +12,6 @@ the longer it's going to take me to find what change was not correct ->
 
 the longer it's going to take me to correct the change ->  
 
-the less I'm going to be willing to make any change
+the less I'm going to be willing to make any change next time
+
+The intervention point for addressing technical debt is not carving out time to refactor, but accelerating feedback loops.
