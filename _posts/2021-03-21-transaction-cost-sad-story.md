@@ -1,5 +1,5 @@
 ---
-title: A short, sad story about high transaction cost causing inevitable big batches and long feedback loops.
+title: A short, sad story about high transaction cost causing inevitable big batches and long feedback loops
 ---
 
 The longer it takes me to test/check something ->
