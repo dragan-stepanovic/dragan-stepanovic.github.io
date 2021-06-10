@@ -14,7 +14,7 @@ So, interruptions are the cause of a balancing feedback loop preventing the syst
 Meaning, motivation to review is conflicted from two sides (number of interruptions vs size of the PR) which prevents further reduction of PR size by a need to trade-off between these two.
 
 ![](/assets/images/pr-balancing-feedback.png)
-[How to read the Causal Loop Diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram)
+Note: [How to read the Causal Loop Diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram)
 
 
 But, interruptions exist only if reviewers are interrupted in doing something else. If they are doing nothing else, they cannot be interrupted.
