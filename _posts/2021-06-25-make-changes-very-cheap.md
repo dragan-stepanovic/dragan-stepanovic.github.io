@@ -2,6 +2,7 @@
 title: The key to building the quality in is to make making the changes very cheap
 ---
 
+![](/assets/images/nitpick.png)  
 
 The power of a continuous code review after each LoC change is that you'd never feel that you're nitpicking when asking for a change.
 The shortest possible feedback loop and review in immediate context make making changes virtually free.
