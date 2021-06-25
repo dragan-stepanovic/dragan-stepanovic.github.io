@@ -1,5 +1,5 @@
 ---
-title: The key to building the quality in is to make making the changes very cheap
+title: The key to building the quality in is to make making changes very cheap
 ---
 
 ![](/assets/images/nitpick.png)  
