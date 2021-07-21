@@ -6,7 +6,7 @@ Without the ability to learn and experiment faster in order to inform your produ
 
 And guess who's opinions get to end up in the product?
 
-Without Continuous Delivery, the product ends up being a reflection of an organization's power of structure driven by HiPPO prioritization.
+Without Continuous Delivery, the product ends up being a reflection of an organization's power structure driven by HiPPO prioritization.
 
 We need a name for this law (analogical to Conway's Law).
 
