@@ -1,6 +1,6 @@
 ---
 title: Just-in-time design and architecture
-----
+---
 
 I tend to reason about the design of the code and system architecture by thinking about:
 
