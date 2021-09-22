@@ -2,7 +2,7 @@
 Instead of complaining about big PRs to review
 ---
 
-you should do reviews way faster and you'll get smaller PRs for review.
+you should do reviews way faster and you'll get way smaller PRs to review.
 
 The wait time for review is what is (mostly) making the author batch the changes.
 
