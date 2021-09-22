@@ -1,5 +1,5 @@
 ---
-Instead of complaining about big PRs to review
+title: Instead of complaining about big PRs to review
 ---
 
 you should do reviews way faster and you'll get way smaller PRs to review.
