@@ -6,4 +6,4 @@ title: The problem with optimizing the parts of the system that are not the ones
 
 Thinking there's no harm or system-wide consequences of any optimization in the system causes huge damage to the whole system.
 
-It's not a zero value-added action, but a negative one.
+It's not a zero value-adding action, but a negative one.
