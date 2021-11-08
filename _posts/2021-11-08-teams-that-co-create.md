@@ -2,7 +2,7 @@
 title: Teams that co-create
 ---
 
-jave way higher chances of building an environment of trust, empathy, and psychological safety.
+have way higher chances of building an environment of trust, empathy, and psychological safety.
 
 
 These traits are the result of the team's way of working as much as ways of working are the result of these traits.
