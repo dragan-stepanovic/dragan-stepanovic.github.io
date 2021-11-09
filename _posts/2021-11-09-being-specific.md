@@ -2,7 +2,7 @@
 title: One thing about being specific
 ---
 
-in the methods and messages is that it hugely reduces coupling and enables faster current and future changes.
+in the design of methods and messages is that it hugely reduces coupling and enables faster current and future changes.
 
 Example:
 Your service might receive 'CustomerAddressUpdated' message, but what you're really interested in is when the customer moved (and thus the address changed).
