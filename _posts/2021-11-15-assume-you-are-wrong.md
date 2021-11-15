@@ -1,8 +1,8 @@
 ---
-title: Assume you're wrong
+title: Assume you're the one being wrong
 ---
 
->Bosses say "Does that make sense" … to get compliance.
+>Bosses say "Does that make sense" … to get compliance.  
 >Leaders ask "What didn't make sense?" to invite discussion.
 
 - L. David Marquet
