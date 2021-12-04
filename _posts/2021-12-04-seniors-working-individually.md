@@ -1,5 +1,5 @@
 ---
-title: Expectation that senior developers can work individually is killing team's ability to collaborate
+title: Expectation that senior developers can work independently is killing team's ability to collaborate
 ---
 
 The more they ask for help the less they feel they are meeting that expectation.
