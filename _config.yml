@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 10
-baseurl: http://www.draganstepanovic.com/
+baseurl: https://dragan-stepanovic.github.io/
 domain_name: 'https://dragan-stepanovic.github.io'
 #permalink: /:title/
 google_analytics: 'UA-99087676-3'
