@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 10
-baseurl: https://dragan-stepanovic.github.io
-domain_name: 'https://dragan-stepanovic.github.io/'
+baseurl: https://dragan-stepanovic.github.io/
+domain_name: 'https://dragan-stepanovic.github.io'
 #permalink: /:title/
 google_analytics: 'UA-99087676-3'
 gems: [jekyll-paginate]
@@ -21,5 +21,5 @@ defaults:
       disqus: "true"
 
 # Details for the RSS feed generator
-url:            'https://dragan-stepanovic.github.io/'
+url:            'https://dragan-stepanovic.github.io'
 author:         'Dragan Stepanović'
