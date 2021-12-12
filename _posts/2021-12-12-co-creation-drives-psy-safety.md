@@ -1,5 +1,5 @@
 ---
-title: When it comes to the way of working, there's one small difference that can make a huge impact on your teams and organization.
+title: When it comes to the way of working, there's one small difference that can make a huge impact on your teams and organization
 ---
 
 With Pull Requests you see just a polished and thought-through end result.
@@ -15,3 +15,5 @@ It's funny how by looking for ways to continuously shorten the feedback loop in 
 Effects of this? Results from [Google's Project Aristotle research](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) have the answer.
 
 Spoiler: Psychological Safety was identified as the most important driver of what makes a team high-performing.
+
+![](/assets/images/psy safety.jpeg)
