@@ -12,6 +12,6 @@ Teams that have higher levels of psychological safety tend to co-create more, bu
 
 It's funny how by looking for ways to continuously shorten the feedback loop in order to minimize lead times (a very mechanistic driver) we arrive at a point with way more empathy and acceptance for others and ourselves.
 
-Effects of this? Results from Google's Project Aristotle research have the answer: [https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html]
+Effects of this? Results from [Google's Project Aristotle research](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) have the answer.
 
 Spoiler: Psychological Safety was identified as the most important driver of what makes a team high-performing.
