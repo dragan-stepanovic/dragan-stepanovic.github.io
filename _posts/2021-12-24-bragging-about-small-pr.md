@@ -12,7 +12,7 @@ Wait time matters only in relation to the processing/touch time and thus as part
 
 If you have wait time in the system (inherent to async work), I can always find you a batch small enough for which flow efficiency is so bad that it doesn't make any economic sense to have a batch that small, which leads you back into bigger batches.
 
-This will never be true for sync work where there's no wait time at all.  
-And that's why co-creation (pairing/mobbing) will leave you with way less cruft in your codebase from which you, your team, your product, and your customers are suffering from.
+This will never be true for sync work (zero wait time).  
+And that's why co-creation (pairing/mobbing) will leave you with way less cruft in your codebase from which you, your team, your product, and your customers are likely suffering from.
 
 Working together works.
