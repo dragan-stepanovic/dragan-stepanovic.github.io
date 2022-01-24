@@ -1,6 +1,7 @@
 ---
-title: Estimating effort in a fully loaded system is a poor man's try of achieving predictability while eroding trust and jeopardizing psychological safety
+title: Estimating effort in a fully loaded system
 ---
+is a poor man's try of achieving predictability while eroding trust and jeopardizing psychological safety.
 
 If an org is fully loaded with work, i.e. has a very high utilization rate (almost all of them are, unfortunately) then most of the work's lead time is actually spent in wait time, instead of being worked on.
 
