@@ -10,7 +10,7 @@ As per @martinfowler's quote from Gerard Meszaros's "XUnit Test Patterns" book:
 "Dummy objects are passed around but never actually used. Usually they are just used to fill parameter lists."
 (https://martinfowler.com/bliki/TestDouble.html)
 
-Your test tests a behavior. and if in order to invoke that behavior you have to send in a placeholder object that is not used as part of exercising that behavior, your design probably needs some love when it comes to higher cohesion.
+Your test tests a behavior, and if in order to invoke that behavior you have to send in a placeholder object that is not used as part of exercising that behavior, your design probably needs some love when it comes to higher cohesion.
 
 The test is telling you that the signature of the method is asking for this object, but it's actually not used in this use case you're testing. Chances are it's used as part of testing some other use case and my guess would be that that test also sends a dummy object for the parameter that was exercised in the beforementioned test case.
 
