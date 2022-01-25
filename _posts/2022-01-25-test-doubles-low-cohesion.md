@@ -10,9 +10,12 @@ As per @martinfowler's quote from Gerard Meszaros's "XUnit Test Patterns" book:
 "Dummy objects are passed around but never actually used. Usually they are just used to fill parameter lists."
 (https://martinfowler.com/bliki/TestDouble.html)
 
-The reason why using dummy objects can be an indication of a deeper design problem is that if your test tests a behavior and in order to invoke that behavior you have to send in a placeholder object, your design probably needs some love when it comes to higher cohesion.
+Your test tests a behavior. and if in order to invoke that behavior you have to send in a placeholder object that is not used as part of exercising that behavior, your design probably needs some love when it comes to higher cohesion.
 
-What your test is telling you is, the signature of this method is asking for this object but it's actually not used in this use case and the behavior you're testing. Chances are it's used in some other use case and my guess would be that that test sends a dummy object for the parameter that was used in the other test case. One test uses a subset of method parameters and the other uses the other subset of method parameters. Selectively using parameters of the method depending on the use case is an indication of a low cohesion and indicates that there are different parts of the method that hang together tightly with some of other part of the method, while hanging together losely with other parts of the method, even though they are located in the same method or a chunk of the code.
+The test is telling you is that the signature of this method is asking for this object, but it's actually not used in this use case you're testing. Chances are it's used as part of testing some other use case and my guess would be that that test also sends a dummy object for the parameter that was used in the other test case.
+
+I.e. one test uses a subset of method parameters and the other uses the other subset of method parameters. Selectively using parameters of the method depending on the use case is an indication of a low cohesion and indicates that there are different parts of the method that hang together more tightly with some other parts of the method, while hanging together more losely with other parts of the method, even though they are located in the same method or a chunk of the code.
+E.g. if method Foo has A, B, C and D chunks of code, it turns out that A and C chunks, and B and D chunks hold together more tightly than A and B, and C and D.
 
 Every object that is instantiated in the test needs to be used as part of the given behavior.
 Test should not contain irrelevant details, but that doesn't mean it should hide them as popularly thought. When a test invokes a behavior I expect to see all passed parameters being relevant for the test. Thus, instead of using dummy objects, redesign the code to increase the cohesiveness so that you don't have to use them.
