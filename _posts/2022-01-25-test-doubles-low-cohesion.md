@@ -2,6 +2,8 @@
 title: Using Dummy objects in tests is a sign of low cohesion in production code
 ---
 
+Over the years, I came to realize that usage of some test doubles and popular patterns in test code can actually be an indication of a deeper design problem in production code.
+
 I know that mocks get most of the hate, but this time it's not about them. Partly, because I think that folks hating on mocks are most probably misusing them, and that mocks used as intended can actually help a lot with the design.
 (for how to use them as intended, check the GOOS book and "Mock Roles, not Objects" paper by 
 @natpryce, @sf105, et al.).
