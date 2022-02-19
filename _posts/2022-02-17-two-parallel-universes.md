@@ -74,5 +74,7 @@ If you do it properly (good facilitation needed) and learn the skills of co-crea
 
 There are lots of other benefits of co-creation, but that's a separate topic you can check out [in this podcast I did](https://youtube.com/watch?v=NJWeM7beAGE).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NJWeM7beAGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
 
 Have fun working together as a team!
