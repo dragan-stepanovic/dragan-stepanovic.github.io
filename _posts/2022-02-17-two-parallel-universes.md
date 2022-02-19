@@ -72,7 +72,7 @@ _Disclaimer_: I'm not saying pairing/mobbing are better across all imaginable di
 
 If you do it properly (good facilitation needed) and learn the skills of co-creation and working together with others, I believe you'll both very much like it and also be more productive as a team.
 
-There are lots of other benefits of co-creation, but that's a separate topic you can check out [in this podcast I did](https://youtube.com/watch?v=NJWeM7beAGE).
+There are lots of other benefits of co-creation, but that's a separate topic you can check out in this podcast.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NJWeM7beAGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
