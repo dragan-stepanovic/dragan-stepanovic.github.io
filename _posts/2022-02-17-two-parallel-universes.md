@@ -27,18 +27,18 @@ PR score calculation reflecting the metrics we want to optimize for and in which
 
 A bit more on the metrics and the reasoning behind them:
 
-1. PR size (LoC changed).
+**1. PR size (LoC changed)**
 
 Smaller PRs are something we'd want to have more of, and I believe there's no need to argue about that (if yes, please check the benefits of small batches in Lean). 
 
 Note: some PRs may have many LoC changed, but are quick to produce (e.g. an update of an external library producing a PR with lots of LoC changed); these are outliers that were not included.
 
-2. Engagement per size
+**2. Engagement per size**
 
 Number of non-trivial comments (i.e. comments that are not 'LGTM', '+1', 👍, etc.), per size.
 If you get little or no feedback for your work, then delayed code reviews don't make much sense, since they both choke the flow and don't build the quality in. We'd want this metric to not go down.
 
-3. Wait time per size
+**3. Wait time per size**
 
 Time PR spends sitting in the queue (not being worked on, waiting for author's or reviewers' attention), per size.
 
