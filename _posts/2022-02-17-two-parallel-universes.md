@@ -35,7 +35,8 @@ Note: some PRs may have many LoC changed, but are quick to produce (e.g. an upda
 
 **2. Engagement per size**
 
-Number of non-trivial comments (i.e. comments that are not 'LGTM', '+1', 👍, etc.), per size.
+Number of non-trivial comments (i.e. comments that are not 'LGTM', '+1', 👍, etc.), per size.  
+
 If you get little or no feedback for your work, then delayed code reviews don't make much sense, since they both choke the flow and don't build the quality in. We'd want this metric to not go down.
 
 **3. Wait time per size**
