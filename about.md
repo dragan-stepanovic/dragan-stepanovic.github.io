@@ -8,7 +8,7 @@ Typically, in search of better ways of working, exploring ends of the spectrum, 
 It's been a long time since I fell in love with XP, Domain-Driven Design, and software as a craft (founder of Software Crafting Serbia community).
 I enjoy endless discussions connecting XP, Lean, The Theory of Constraints, Systems Thinking, and socio-emotio-technical topics.
   
-![](/assets/images/profile_resized.jpg)
+[/assets/images/profile_resized.jpg](https://dragan-stepanovic.github.io/assets/images/profile_resized.jpg)
   
 [Twitter](http://www.twitter.com/d_stepanovic)  
 [LinkedIn](http://www.linkedin.com/in/dstepanovic)
