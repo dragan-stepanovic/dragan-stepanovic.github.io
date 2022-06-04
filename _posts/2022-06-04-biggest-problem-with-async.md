@@ -1,5 +1,5 @@
 ---
-title: The biggest problem with asycn work
+title: The biggest problem with async work
 ---
 
 The biggest problem inherent to systems based on async work when it comes to flow is that they make the cost of starting something new effectively zero, since the other side doesn't have to be available in order to start new work.
