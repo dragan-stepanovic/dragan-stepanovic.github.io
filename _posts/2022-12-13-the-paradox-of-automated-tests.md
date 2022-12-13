@@ -1,5 +1,5 @@
 ---
-title: The paradox of automated tests as a safety net: as the testability of a codebase goes up, the ROI for test automation goes down?!
+title: The paradox of automated tests as a safety net - as the testability of a codebase goes up, the ROI for test automation goes down?!
 ---
 
 Automated tests as a safety net are most valuable in codebases with high risk when making a change. Those are conflated, coupled codebases where:
@@ -22,6 +22,6 @@ That's the economic argument behind investing in good design because we reduce t
 But! As the rate of change per element goes down, the risk also goes down, thus the value you get out of automating tests as a safety net goes down as well, so it's less easy to justify the upfront investment.
 
 There are two additional, important points here:
-1) If you have a piece of code that is inherently harder to test – anything that interacts with the outer world, e.g., database, console, files, external API calls, queues, etc. – instead of automating tests you can leverage the design to reduce the rate of change of these parts of codebase in order to reduce the risk, perhaps to a point where it doesn't make economic sense to automate the tests.
+1) If you have a piece of code that is inherently harder to test – anything that interacts with the outer world, e.g., database, console, files, external API calls, queues, etc. – instead of automating tests you can leverage the design to reduce the rate of change of these parts of the codebase in order to reduce the risk, perhaps to a point where it doesn't make economic sense to automate the tests.
 
 2) Reducing the risk of change by lowering the rate of change per element of code is driving down the amount of rework in the teams with good, heavily factored design and thus making them more productive
