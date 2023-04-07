@@ -1,5 +1,5 @@
 ---
-title: TBD + TDD + mob programming is way less #YOLO
+title: TBD + TDD + mob programming is way less YOLO
 ---
 
 than working on an isolated, long-lived feature branch, with a delayed review, integration feedback, and a lack of tests.
