@@ -6,7 +6,7 @@ than working on an isolated, long-lived feature branch, with a delayed review, i
 
 Why?
 
-Because pushing straight to the main incentivizes front-loading safety (tests, continuous code review, small steps).
+Because pushing straight to the main incentivizes front-loading safety (tests, continuous code review, smaller, safer steps).
 
 It reminds me of the famous traffic experiment, where removing sidewalks and traffic signs actually improved safety.
 
