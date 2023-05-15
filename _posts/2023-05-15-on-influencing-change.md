@@ -1,8 +1,8 @@
 ---
 title: On influencing change
 ---
-From a conversation on how to influence change in orgs/teams as a Principal/Staff engineer.
-
+Some of the things I think about when asked how to influence change in teams/orgs as a Principal/Staff engineer:
+ 
 - Invest time in building relationships before (big) course-correcting. In the start: a productive relationship is more important than being right. Spend time working together with people and sharing the constraints they are facing day-to-day, it will help you understand their context which makes your future interventions more likely to be useful.
 
 - Jumping on the moving train and dancing to the beat of the team/org/system is important to build a shared identity at the start. Otherwise, being too eager to change too many things too soon, you risk being rejected by the org immune system. People have different capacities when it comes to absorbing change. You cannot make the plant grow faster by pulling it.
