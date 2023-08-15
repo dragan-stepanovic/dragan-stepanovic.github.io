@@ -15,3 +15,5 @@ The lower this ratio, the more private compared to public methods we have in a c
 Low public-to-private methods ratio indicates the presence of implicit domain concepts that were not communicated in the code. Once we do that, by extracting collaborators and moving private behavior there and as a side effect making it public, this ratio goes up.
 
 The first metric (LoC per method) is there to guard the 2nd one because for God classes with a single or few, huge methods, this ratio is low, but obviously, the code is far from having a good testable design.
+
+Note: these metrics are not one to rule them all. I see them as good starting indicators and conversation starters.
