@@ -17,7 +17,7 @@ On the flip side, in codebases that are clear, explicit, and speak the domain la
 
 When you have 100 tiny methods, and you need to change something, the number of methods you need to change as % of the total number of methods is most often way lower than when you have fewer, longer methods.
 
-That's the economic argument behind investing in good design because **we reduce the risk of change by reducing the average rate of change per element**__.
+That's the economic argument behind investing in good design because _**we reduce the risk of change by reducing the average rate of change per element**_.
 
 But! As the rate of change per element goes down, the risk also goes down, thus the value you get out of automating tests as a safety net goes down as well, so it's less easy to justify the upfront investment.
 
