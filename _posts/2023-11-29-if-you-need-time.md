@@ -1,6 +1,6 @@
 ---
 title: If you need to take time to understand the code before you start refactoring
---
+---
 
 then the refactoring step you plan to do is probably already too big.
 
