@@ -9,3 +9,5 @@ And that's when the reality will painfully surprise you, because it doesn't care
 It just is.
 
 Your mental model of it is the one that needs to adjust instead.
+
+Realizing that you just cannot decouple things that are inherently interdependent is often one of those adjustments, and that you'll be way better off shifting interventions to managing that inherent interdependence over trying to decouple.
