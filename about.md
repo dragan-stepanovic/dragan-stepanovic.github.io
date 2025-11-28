@@ -14,5 +14,5 @@ _Podcasts I was interviewed on_: [Dave Farley's Modern Software Engineering](htt
   
 ![](https://dragan-stepanovic.github.io/assets/images/profile_resized.jpg)
   
-[Twitter](http://www.twitter.com/d_stepanovic)  
 [LinkedIn](http://www.linkedin.com/in/dstepanovic)
+[Twitter](http://www.twitter.com/d_stepanovic)  
