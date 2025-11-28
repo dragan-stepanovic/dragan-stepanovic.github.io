@@ -10,7 +10,6 @@ url: "https://draganstepanovic.com"
 baseurl: ""
 #permalink: /:title/
 google_analytics: 'UA-99087676-3'
-gems: [jekyll-paginate]
 plugins: [jekyll-paginate]
 defaults:
   -
