@@ -10,7 +10,7 @@ I enjoys endless discussions connecting XP, Domain-Driven Design, Theory of Cons
 
 _Conferences I gave talk at_: NDC Copenhagen, NewCrafts Paris, Agile Cambridge, Lean Agile Scotland, FlowCon Paris, XP Conference Amsterdam, Devoxx Poland, BuildStuff Lithuania, Talk Less Warsaw, etc.   
 
-_Podcasts I was interviewed at_: [Dave Farley's Modern Software Engineering](https://www.youtube.com/watch?v=gTPPu24t-l0&list=PL-1BoINuCjQlsQcT0XhXvvvQXIShQ34YF&index=8&pp=gAQBiAQB), Deep Collaboration Podcast, Beyond Coding, Who is Agile, etc.
+_Podcasts I was interviewed on_: [Dave Farley's Modern Software Engineering](https://www.youtube.com/watch?v=gTPPu24t-l0&list=PL-1BoINuCjQlsQcT0XhXvvvQXIShQ34YF&index=8&pp=gAQBiAQB), Deep Collaboration Podcast, Beyond Coding, Who is Agile, etc.
   
 ![](https://dragan-stepanovic.github.io/assets/images/profile_resized.jpg)
   
