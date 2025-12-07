@@ -17,6 +17,17 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
 
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="article" />
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    {% elsif page.excerpt %}
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 }}" />
+    {% endif %}
+    {% if page.cover %}
+    <meta property="og:image" content="{{ site.url }}{{ page.cover }}" />
+    {% endif %}
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
