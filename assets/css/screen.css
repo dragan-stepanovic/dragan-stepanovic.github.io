@@ -160,6 +160,18 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-link:before {
     content: "\f608";
 }
+.icon-linkedin:before {
+    content: "\f0e1";
+    font-family: "Font Awesome 6 Brands";
+}
+.icon-bluesky:before {
+    content: "\e671";
+    font-family: "Font Awesome 6 Brands";
+}
+.icon-mastodon:before {
+    content: "\f4f6";
+    font-family: "Font Awesome 6 Brands";
+}
 
 
 /* ==========================================================================
