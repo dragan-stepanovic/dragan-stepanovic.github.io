@@ -10,3 +10,9 @@ The cost of producing big batches may have dropped with AI, but that doesn’t c
 In fact, improving the efficiency of delivering big batches will likely contribute to even bigger batches to compensate for that.
 
 And I don't even want to speculate on the number of latent failure modes that will get activated as a result of the interaction between more, bigger batches deployed in a short time frame. Popcorn time 🍿
+
+
+I was trying to find an image for the change in the dynamics that will likely happen as a result of plummeting of the cost of generating more code with AI, and "elephant travelling through a boa constrictor" nails it.
+
+Essentially, the elephant just got bigger.
+<img width="1200" height="576" alt="image" src="https://github.com/user-attachments/assets/1083dd75-bf9e-4990-9a7c-10d9f8c3c50e" />
