@@ -1,0 +1,36 @@
+---
+layout: page
+title: My talks
+permalink: /talks/
+---
+
+{% if site.data.talks and site.data.talks.size > 0 %}
+    {% assign talks = site.data.talks | sort: "date" | reverse %}
+    {% for talk in talks %}
+        <section class="talk">
+            <header class="talk-header">
+                <h2 class="talk-title">{{ talk.title }}</h2>
+                <p class="talk-meta">
+                    {% if talk.event %}<span class="talk-event">{% if talk.event_url %}<a href="{{ talk.event_url }}" target="_blank" rel="noopener">{{ talk.event }}</a>{% else %}{{ talk.event }}{% endif %}</span>{% endif %}
+                    {% if talk.date %}<time datetime="{{ talk.date | date: "%Y-%m-%d" }}">{{ talk.date | date: "%B %Y" }}</time>{% endif %}
+                </p>
+            </header>
+
+            {% if talk.description %}<p class="talk-description">{{ talk.description }}</p>{% endif %}
+
+            <div class="slides-embed">
+                <iframe src="https://drive.google.com/file/d/{{ talk.drive_id }}/preview"
+                        allow="autoplay"
+                        allowfullscreen
+                        loading="lazy"></iframe>
+            </div>
+
+            <p class="talk-links">
+                <a href="https://drive.google.com/file/d/{{ talk.drive_id }}/view" target="_blank" rel="noopener">Open slides &raquo;</a>
+                {% if talk.video %}<a href="{{ talk.video }}" target="_blank" rel="noopener">Watch the talk &raquo;</a>{% endif %}
+            </p>
+        </section>
+    {% endfor %}
+{% else %}
+    <p>Slides from my talks are coming soon.</p>
+{% endif %}

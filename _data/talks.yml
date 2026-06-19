@@ -1,0 +1,22 @@
+# My talks — slide decks embedded from Google Drive.
+#
+# To add a talk, copy the template below and fill it in.
+# `drive_id` is the file ID from the Google Drive share link:
+#   https://drive.google.com/file/d/THIS_IS_THE_ID/view?usp=sharing
+#                                    ^^^^^^^^^^^^^^
+# Make sure the file's sharing is set to "Anyone with the link".
+# Newest talks go first.
+#
+# - title: "Production Doesn't Care About Your Branch"
+#   event: "NDC Copenhagen"
+#   event_url: "https://ndccopenhagen.com/"                                    # optional
+#   date: 2024-05-15
+#   drive_id: "1AbCdEfGhIjKlMnOpQrStUvWxYz"
+#   description: "Why integrating more frequently beats long-lived branches."  # optional
+#   video: "https://www.youtube.com/watch?v=xxxxxxxx"                          # optional
+
+- title: "Agentic Coding - A Systems Perspective"
+  event: "LGTM meetup"
+  event_url: "https://www.meetup.com/lgtm-berlin/events/315076976/"
+  date: 2026-07-17
+  drive_id: "1Un1wSOGUpYNhEcf0PSIhCM8t_SBwGvQ6"
